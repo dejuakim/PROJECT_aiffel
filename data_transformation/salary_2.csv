@@ -1,0 +1,2686 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race,Senior
+29,Female,1,Human Resources Coordinator,2,45000,China,Chinese,0
+23,Male,0,Sales Associate,1,25000,USA,Asian,0
+32,Female,2,Software Developer,7,90000,USA,African American,0
+44,Male,1,Operations Manager,18,170000,USA,Hispanic,0
+26,Female,1,Marketing Coordinator,2,40000,Canada,Asian,0
+40,Male,3,Data Scientist,15,150000,UK,Mixed,0
+33,Female,1,Human Resources Manager,8,95000,Australia,Australian,0
+24,Male,0,Sales Associate,1,25000,USA,Hispanic,0
+35,Female,2,Marketing Manager,10,110000,Canada,Asian,0
+29,Male,1,Software Engineer,4,70000,Australia,Australian,0
+49,Male,3,Data Scientist,22,220000,UK,White,0
+26,Female,1,Software Developer,2,35000,USA,African American,0
+41,Female,2,Human Resources Manager,13,140000,China,Chinese,0
+36,Male,1,Operations Manager,9,110000,UK,Asian,0
+28,Female,0,Sales Associate,1,25000,China,White,0
+43,Male,3,Data Scientist,16,160000,USA,White,0
+29,Male,1,Software Developer,5,80000,UK,White,0
+39,Female,2,Marketing Coordinator,11,120000,Canada,Black,0
+32,Male,1,Operations Manager,6,90000,UK,Asian,0
+28,Female,2,Human Resources Coordinator,2,45000,USA,Asian,0
+40,Male,3,Data Scientist,15,150000,UK,Welsh,0
+33,Female,1,Human Resources Manager,8,95000,USA,Hispanic,0
+24,Male,0,Sales Associate,1,25000,UK,Asian,0
+35,Female,2,Marketing Manager,10,110000,Australia,White,0
+29,Male,1,Software Engineer,4,70000,UK,Mixed,0
+49,Male,3,Data Scientist,22,220000,UK,Mixed,0
+26,Female,1,Software Developer,2,35000,USA,Asian,0
+41,Female,2,Human Resources Manager,13,140000,Australia,White,0
+36,Male,1,Operations Manager,9,110000,China,Korean,0
+28,Female,0,Sales Associate,1,25000,China,Chinese,0
+43,Male,3,Data Scientist,16,160000,UK,Welsh,0
+29,Male,1,Software Developer,5,80000,China,Chinese,0
+39,Female,2,Marketing Coordinator,11,120000,China,Korean,0
+32,Male,1,Operations Manager,6,90000,Australia,Australian,0
+28,Female,2,Human Resources Coordinator,2,45000,USA,Hispanic,0
+40,Male,3,Data Scientist,15,150000,USA,Asian,0
+33,Female,1,Human Resources Manager,8,95000,Canada,Asian,0
+24,Male,0,Sales Associate,1,25000,Australia,Australian,0
+35,Female,2,Marketing Manager,10,110000,Australia,Asian,0
+29,Male,1,Software Engineer,4,70000,Canada,Asian,0
+49,Male,3,Data Scientist,22,220000,China,White,0
+26,Female,1,Software Developer,2,35000,China,Chinese,0
+41,Female,2,Human Resources Manager,13,140000,USA,African American,0
+36,Male,1,Operations Manager,9,110000,USA,African American,0
+28,Female,0,Sales Associate,1,25000,Australia,Asian,0
+43,Male,3,Data Scientist,16,160000,Australia,Australian,0
+29,Male,1,Software Developer,5,80000,China,White,0
+39,Female,2,Marketing Coordinator,11,120000,USA,Hispanic,0
+32,Male,1,Operations Manager,6,90000,USA,African American,0
+28,Female,2,Human Resources Coordinator,2,45000,Australia,Australian,0
+40,Male,3,Data Scientist,15,150000,Australia,Australian,0
+33,Female,1,Human Resources Manager,8,95000,UK,White,0
+24,Male,0,Sales Associate,1,25000,Canada,Asian,0
+35,Female,2,Marketing Manager,10,110000,UK,Welsh,0
+29,Male,1,Software Engineer,4,70000,China,Chinese,0
+49,Male,3,Data Scientist,22,220000,Australia,Asian,0
+26,Female,1,Software Developer,2,35000,Australia,Asian,0
+41,Female,2,Human Resources Manager,13,140000,UK,Asian,0
+36,Male,1,Operations Manager,9,110000,Australia,Asian,0
+28,Female,0,Sales Associate,1,25000,UK,White,0
+43,Male,3,Data Scientist,16,160000,UK,Mixed,0
+29,Male,1,Software Developer,5,80000,Australia,Australian,0
+39,Female,2,Marketing Coordinator,11,120000,China,Chinese,0
+32,Male,1,Operations Manager,6,90000,USA,White,0
+28,Female,2,Human Resources Coordinator,2,45000,USA,White,0
+40,Male,3,Data Scientist,15,150000,Canada,Asian,0
+33,Female,1,Human Resources Manager,8,95000,China,Chinese,0
+24,Male,0,Sales Associate,1,25000,Canada,Black,0
+35,Female,2,Marketing Manager,10,110000,USA,White,0
+29,Male,1,Software Engineer,4,70000,China,White,0
+49,Male,3,Data Scientist,22,220000,Canada,White,0
+26,Female,1,Software Developer,2,35000,China,White,0
+41,Female,2,Human Resources Manager,13,140000,USA,Hispanic,0
+36,Male,1,Operations Manager,9,110000,USA,Hispanic,0
+28,Female,0,Sales Associate,1,25000,USA,African American,0
+43,Male,3,Data Scientist,16,160000,Canada,Black,0
+29,Male,1,Software Developer,5,80000,Australia,Australian,0
+39,Female,2,Marketing Coordinator,11,120000,China,Chinese,0
+32,Male,1,Operations Manager,6,90000,China,White,0
+28,Female,2,Human Resources Coordinator,2,45000,China,Korean,0
+40,Male,3,Data Scientist,15,150000,USA,African American,0
+33,Female,1,Human Resources Manager,8,95000,Canada,White,0
+24,Male,0,Sales Associate,1,25000,USA,Asian,0
+35,Female,2,Marketing Manager,10,110000,USA,Hispanic,0
+29,Male,1,Software Engineer,4,70000,USA,Asian,0
+49,Male,3,Data Scientist,22,220000,USA,Hispanic,0
+26,Female,1,Software Developer,2,35000,Canada,Asian,0
+41,Female,2,Human Resources Manager,13,140000,USA,White,0
+36,Male,1,Operations Manager,9,110000,UK,Mixed,0
+28,Female,0,Sales Associate,1,25000,Canada,Asian,0
+43,Male,3,Data Scientist,16,160000,China,White,0
+29,Male,1,Software Developer,5,80000,Australia,Asian,0
+39,Female,2,Marketing Coordinator,11,120000,China,Korean,0
+32,Male,1,Operations Manager,6,90000,China,White,0
+28,Female,2,Human Resources Coordinator,2,45000,Australia,White,0
+40,Male,3,Data Scientist,15,150000,USA,Hispanic,0
+33,Female,1,Human Resources Manager,8,95000,UK,Asian,0
+24,Male,0,Sales Associate,1,25000,Canada,White,0
+35,Female,2,Marketing Manager,10,110000,USA,African American,0
+29,Male,1,Software Engineer,4,70000,Australia,Asian,0
+49,Male,3,Data Scientist,22,220000,Australia,Asian,0
+26,Female,1,Software Developer,2,35000,Australia,Australian,0
+41,Female,2,Human Resources Manager,13,140000,UK,Mixed,0
+36,Male,1,Operations Manager,9,110000,China,Korean,0
+28,Female,0,Sales Associate,1,25000,Canada,Black,0
+43,Male,3,Data Scientist,16,160000,China,Korean,0
+29,Male,1,Software Developer,5,80000,China,White,0
+39,Female,2,Marketing Coordinator,11,120000,Canada,Asian,0
+32,Male,1,Operations Manager,6,90000,China,White,0
+28,Female,2,Human Resources Coordinator,2,45000,USA,White,0
+40,Male,3,Data Scientist,15,150000,Canada,Asian,0
+33,Female,1,Human Resources Manager,8,95000,China,Korean,0
+24,Male,0,Sales Associate,1,25000,Australia,White,0
+35,Female,2,Marketing Manager,10,110000,Australia,Asian,0
+29,Male,1,Software Engineer,4,70000,Canada,Black,0
+49,Male,3,Data Scientist,22,220000,China,White,0
+26,Female,1,Software Developer,2,35000,Australia,White,0
+41,Female,2,Human Resources Manager,13,140000,UK,Welsh,0
+36,Male,1,Operations Manager,9,110000,UK,Welsh,0
+28,Female,0,Sales Associate,1,25000,Canada,White,0
+43,Male,3,Data Scientist,16,160000,Australia,Asian,0
+29,Male,1,Software Developer,5,80000,USA,Hispanic,0
+34,Male,1,Software Engineer,6,85000,Canada,White,0
+31,Female,2,Marketing Manager,4,62000,China,Korean,0
+41,Male,3,Data Scientist,13,138000,China,Korean,0
+27,Female,1,Human Resources Coordinator,2,47000,China,Korean,0
+25,Male,0,Sales Associate,1,26000,Australia,Australian,0
+33,Female,2,Software Developer,8,95000,UK,Asian,0
+45,Male,1,Operations Manager,19,174000,Canada,Asian,0
+28,Female,1,Marketing Coordinator,2,41000,China,Chinese,0
+42,Male,3,Data Scientist,16,162000,Australia,White,0
+34,Female,1,Human Resources Manager,9,99000,Canada,Black,0
+23,Male,0,Sales Associate,1,26000,Canada,White,0
+36,Female,2,Marketing Manager,11,117000,UK,White,0
+30,Male,1,Software Engineer,5,75000,Australia,Australian,0
+50,Male,3,Data Scientist,23,225000,UK,Asian,0
+27,Female,1,Software Developer,2,36000,UK,Asian,0
+43,Female,2,Human Resources Manager,14,146000,USA,White,0
+37,Male,1,Operations Manager,10,113000,Australia,Asian,0
+29,Female,0,Sales Associate,1,26000,Canada,Asian,0
+44,Male,3,Data Scientist,17,168000,USA,Asian,0
+30,Male,1,Software Developer,6,85000,USA,Asian,0
+40,Female,2,Marketing Coordinator,12,122000,Australia,Australian,0
+33,Male,1,Operations Manager,7,96000,Australia,Australian,0
+29,Female,2,Human Resources Coordinator,3,49000,Australia,Asian,0
+43,Male,3,Data Scientist,16,162000,China,Chinese,0
+34,Female,1,Human Resources Manager,9,99000,UK,Welsh,0
+23,Male,0,Sales Associate,1,26000,Australia,Asian,0
+36,Female,2,Marketing Manager,11,117000,USA,Asian,0
+30,Male,1,Software Engineer,5,75000,USA,African American,0
+50,Male,3,Data Scientist,23,225000,USA,Hispanic,0
+27,Female,1,Software Developer,2,36000,USA,Asian,0
+43,Female,2,Human Resources Manager,14,146000,Australia,Australian,0
+37,Male,1,Operations Manager,10,113000,UK,Asian,0
+29,Female,0,Sales Associate,1,26000,Australia,White,0
+44,Male,3,Data Scientist,17,168000,Canada,Black,0
+30,Male,1,Software Developer,6,85000,USA,African American,0
+40,Female,2,Marketing Coordinator,12,122000,Australia,Asian,0
+33,Male,1,Operations Manager,7,96000,USA,Hispanic,0
+29,Female,2,Human Resources Coordinator,3,49000,Canada,Black,0
+43,Male,3,Data Scientist,16,162000,Canada,Black,0
+34,Female,1,Human Resources Manager,9,99000,UK,Mixed,0
+23,Male,0,Sales Associate,1,26000,Canada,White,0
+36,Female,2,Marketing Manager,11,117000,USA,Hispanic,0
+30,Male,1,Software Engineer,5,75000,Australia,Asian,0
+50,Male,3,Data Scientist,23,225000,Australia,Australian,0
+27,Female,1,Software Developer,2,36000,UK,Mixed,0
+43,Female,2,Human Resources Manager,14,146000,UK,White,0
+37,Male,1,Operations Manager,10,113000,USA,White,0
+29,Female,0,Sales Associate,1,26000,UK,Welsh,0
+44,Male,3,Data Scientist,17,168000,USA,White,0
+30,Male,1,Software Developer,6,85000,Australia,Asian,0
+40,Female,2,Marketing Coordinator,12,122000,UK,Welsh,0
+33,Male,1,Operations Manager,7,96000,Australia,Asian,0
+29,Female,2,Human Resources Coordinator,3,49000,China,Korean,0
+43,Male,3,Data Scientist,16,162000,Australia,Australian,0
+34,Female,1,Human Resources Manager,9,99000,Australia,Asian,0
+23,Male,0,Sales Associate,1,26000,USA,Hispanic,0
+36,Female,2,Marketing Manager,11,117000,Australia,Asian,0
+30,Male,1,Software Engineer,5,75000,USA,White,0
+50,Male,3,Data Scientist,23,225000,Australia,Australian,0
+27,Female,1,Software Developer,2,36000,Australia,Asian,0
+43,Female,2,Human Resources Manager,14,146000,Australia,White,0
+37,Male,1,Operations Manager,10,113000,Australia,Asian,0
+29,Female,0,Sales Associate,1,26000,China,Chinese,0
+44,Male,3,Data Scientist,17,168000,UK,Asian,0
+30,Male,1,Software Developer,6,85000,USA,White,0
+40,Female,2,Marketing Coordinator,12,122000,UK,Asian,0
+33,Male,1,Operations Manager,7,96000,UK,Asian,0
+29,Female,2,Human Resources Coordinator,3,49000,China,Chinese,0
+43,Male,3,Data Scientist,16,162000,Canada,Asian,0
+34,Female,1,Human Resources Manager,9,99000,China,White,0
+23,Male,0,Sales Associate,1,26000,UK,Welsh,0
+36,Female,2,Marketing Manager,11,117000,Canada,Asian,0
+30,Male,1,Software Engineer,5,75000,China,White,0
+50,Male,3,Data Scientist,23,225000,Australia,White,0
+27,Female,1,Software Developer,2,36000,Australia,Australian,0
+43,Female,2,Human Resources Manager,14,146000,USA,African American,0
+37,Male,1,Operations Manager,10,113000,China,White,0
+29,Female,0,Sales Associate,1,26000,Canada,White,0
+44,Male,3,Data Scientist,17,168000,Canada,Black,0
+30,Male,1,Software Developer,6,85000,UK,White,0
+40,Female,2,Marketing Coordinator,12,122000,UK,Mixed,0
+33,Male,1,Operations Manager,7,96000,China,Chinese,0
+29,Female,2,Human Resources Coordinator,3,49000,Canada,Asian,0
+43,Male,3,Data Scientist,16,162000,China,White,0
+34,Female,1,Human Resources Manager,9,99000,UK,Asian,0
+23,Male,0,Sales Associate,1,26000,USA,Hispanic,0
+36,Female,2,Marketing Manager,11,117000,Canada,Asian,0
+30,Male,1,Software Engineer,5,75000,Canada,Black,0
+50,Male,3,Data Scientist,23,225000,UK,White,0
+27,Female,1,Software Developer,2,36000,Australia,White,0
+43,Female,2,Human Resources Manager,14,146000,Canada,White,0
+37,Male,1,Operations Manager,10,113000,Canada,Black,0
+29,Female,0,Sales Associate,1,26000,UK,Welsh,0
+44,Male,3,Data Scientist,17,168000,Canada,White,0
+30,Male,1,Software Developer,6,85000,UK,White,0
+40,Female,2,Marketing Coordinator,12,122000,Canada,Black,0
+33,Male,1,Operations Manager,7,96000,China,White,0
+29,Female,2,Human Resources Coordinator,3,49000,USA,Hispanic,0
+43,Male,3,Data Scientist,16,162000,USA,Asian,0
+34,Female,1,Human Resources Manager,9,99000,China,Chinese,0
+23,Male,0,Sales Associate,1,26000,Canada,White,0
+36,Female,2,Marketing Manager,11,117000,USA,African American,0
+30,Male,1,Software Engineer,5,75000,UK,Asian,0
+50,Male,3,Data Scientist,23,225000,Australia,White,0
+27,Female,1,Software Developer,2,36000,UK,Mixed,0
+43,Female,2,Human Resources Manager,14,146000,UK,White,0
+37,Male,1,Operations Manager,10,113000,Canada,Black,0
+29,Female,0,Sales Associate,1,26000,Canada,Asian,0
+44,Male,3,Data Scientist,17,168000,USA,Hispanic,0
+30,Male,1,Software Developer,6,85000,Canada,White,0
+40,Female,2,Marketing Coordinator,12,122000,Australia,Australian,0
+33,Male,1,Operations Manager,7,96000,China,Chinese,0
+29,Female,2,Human Resources Coordinator,3,49000,Australia,Asian,0
+43,Male,3,Data Scientist,16,162000,USA,African American,0
+34,Female,1,Human Resources Manager,9,99000,USA,White,0
+23,Male,0,Sales Associate,1,26000,USA,Hispanic,0
+36,Female,2,Marketing Manager,11,117000,USA,White,0
+30,Male,1,Software Engineer,5,75000,UK,Mixed,0
+50,Male,3,Data Scientist,23,225000,UK,Welsh,0
+27,Female,1,Software Developer,2,36000,Australia,Asian,0
+43,Female,2,Human Resources Manager,14,146000,USA,African American,0
+37,Male,1,Operations Manager,10,113000,China,White,0
+29,Female,0,Sales Associate,1,26000,USA,White,0
+44,Male,3,Data Scientist,17,168000,UK,Mixed,0
+30,Male,1,Software Developer,6,85000,Australia,Australian,0
+32,Female,2,Software Developer,8,95000,USA,White,0
+46,Male,3,Data Scientist,18,180000,UK,Asian,0
+28,Female,1,Marketing Coordinator,2,41000,UK,Welsh,0
+24,Male,0,Sales Associate,1,26000,USA,White,0
+31,Female,2,Marketing Manager,5,68000,UK,Asian,0
+39,Male,1,Operations Manager,13,127000,UK,Asian,0
+25,Female,1,Human Resources Coordinator,2,47000,Canada,White,0
+41,Male,3,Data Scientist,15,155000,Canada,Asian,0
+35,Female,1,Human Resources Manager,8,92000,China,Korean,0
+26,Male,0,Sales Associate,1,26000,Australia,White,0
+37,Female,2,Marketing Manager,12,125000,Australia,Australian,0
+29,Male,1,Software Engineer,4,71000,UK,Mixed,0
+51,Male,3,Data Scientist,24,240000,Canada,Black,0
+28,Female,1,Software Developer,2,36000,Canada,White,0
+44,Female,2,Human Resources Manager,15,152000,China,Chinese,0
+38,Male,1,Operations Manager,11,119000,Australia,Asian,0
+30,Female,0,Sales Associate,1,26000,USA,African American,0
+45,Male,3,Data Scientist,19,190000,Australia,Asian,0
+31,Male,1,Software Developer,6,85000,USA,Hispanic,0
+41,Female,2,Marketing Coordinator,13,131000,UK,White,0
+34,Male,1,Operations Manager,8,101000,USA,White,0
+30,Female,2,Human Resources Coordinator,3,49000,UK,Asian,0
+44,Male,3,Data Scientist,18,182000,USA,Asian,0
+35,Female,1,Human Resources Manager,8,92000,China,Chinese,0
+26,Male,0,Sales Associate,1,26000,China,White,0
+37,Female,2,Marketing Manager,12,125000,China,Korean,0
+29,Male,1,Software Engineer,4,71000,Canada,Black,0
+51,Male,3,Data Scientist,24,240000,UK,Welsh,0
+28,Female,1,Software Developer,2,36000,USA,Asian,0
+44,Female,2,Human Resources Manager,15,152000,Australia,White,0
+38,Male,1,Operations Manager,11,119000,USA,Hispanic,0
+30,Female,0,Sales Associate,1,26000,China,Chinese,0
+45,Male,3,Data Scientist,19,190000,Canada,Asian,0
+31,Male,1,Software Developer,6,85000,UK,White,0
+41,Female,2,Marketing Coordinator,13,131000,USA,Asian,0
+34,Male,1,Operations Manager,8,101000,USA,African American,0
+30,Female,2,Human Resources Coordinator,3,49000,UK,Welsh,0
+44,Male,3,Data Scientist,18,182000,USA,African American,0
+35,Female,1,Human Resources Manager,8,92000,Canada,White,0
+26,Male,0,Sales Associate,1,26000,Canada,Asian,0
+37,Female,2,Marketing Manager,12,125000,Canada,White,0
+29,Male,1,Software Engineer,4,71000,Australia,White,0
+51,Male,3,Data Scientist,24,240000,China,Korean,0
+28,Female,1,Software Developer,2,36000,USA,African American,0
+44,Female,2,Human Resources Manager,15,152000,Australia,White,0
+38,Male,1,Operations Manager,11,119000,USA,African American,0
+30,Female,0,Sales Associate,1,26000,Australia,Asian,0
+45,Male,3,Data Scientist,19,190000,China,Korean,0
+31,Male,1,Software Developer,6,85000,China,Chinese,0
+41,Female,2,Marketing Coordinator,13,131000,China,White,0
+34,Male,1,Operations Manager,8,101000,China,Korean,0
+30,Female,2,Human Resources Coordinator,3,49000,UK,White,0
+44,Male,3,Data Scientist,18,182000,Australia,White,0
+35,Female,1,Human Resources Manager,8,92000,USA,Asian,0
+26,Male,0,Sales Associate,1,26000,USA,White,0
+37,Female,2,Marketing Manager,12,125000,UK,Mixed,0
+29,Male,1,Software Engineer,4,71000,Canada,Asian,0
+51,Male,3,Data Scientist,24,240000,China,Chinese,0
+28,Female,1,Software Developer,2,36000,UK,Asian,0
+44,Female,2,Human Resources Manager,15,152000,UK,Mixed,0
+38,Male,1,Operations Manager,11,119000,USA,African American,0
+30,Female,0,Sales Associate,1,26000,UK,Mixed,0
+45,Male,3,Data Scientist,19,190000,UK,Mixed,0
+31,Male,1,Software Developer,6,85000,UK,Asian,0
+41,Female,2,Marketing Coordinator,13,131000,UK,Welsh,0
+34,Male,1,Operations Manager,8,101000,USA,African American,0
+30,Female,2,Human Resources Coordinator,3,49000,Canada,White,0
+44,Male,3,Data Scientist,18,182000,UK,Welsh,0
+35,Female,1,Human Resources Manager,8,92000,UK,Mixed,0
+26,Male,0,Sales Associate,1,26000,Australia,White,0
+37,Female,2,Marketing Manager,12,125000,UK,White,0
+29,Male,1,Software Engineer,4,71000,USA,White,0
+51,Male,3,Data Scientist,24,240000,USA,White,0
+28,Female,1,Software Developer,2,36000,China,Chinese,0
+44,Female,2,Human Resources Manager,15,152000,UK,White,0
+38,Male,1,Operations Manager,11,119000,USA,Hispanic,0
+30,Female,0,Sales Associate,1,26000,China,Chinese,0
+45,Male,3,Data Scientist,19,190000,USA,Hispanic,0
+31,Male,1,Software Developer,6,85000,China,Chinese,0
+41,Female,2,Marketing Coordinator,13,131000,Canada,Black,0
+34,Male,1,Operations Manager,8,101000,Australia,White,0
+30,Female,2,Human Resources Coordinator,3,49000,Australia,Asian,0
+44,Male,3,Data Scientist,18,182000,Australia,Australian,0
+35,Female,1,Human Resources Manager,8,92000,Canada,Asian,0
+26,Male,0,Sales Associate,1,26000,Australia,White,0
+37,Female,2,Marketing Manager,12,125000,China,Korean,0
+29,Male,1,Software Engineer,4,71000,Australia,Asian,0
+51,Male,3,Data Scientist,24,240000,Canada,Black,0
+28,Female,1,Software Developer,2,36000,Australia,Asian,0
+44,Female,2,Human Resources Manager,15,152000,Australia,White,0
+38,Male,1,Operations Manager,11,119000,Canada,Asian,0
+30,Female,0,Sales Associate,1,26000,UK,Mixed,0
+45,Male,3,Data Scientist,19,190000,Australia,Asian,0
+31,Male,1,Software Developer,6,85000,Canada,Black,0
+41,Female,2,Marketing Coordinator,13,131000,Australia,Asian,0
+34,Male,1,Operations Manager,8,101000,USA,African American,0
+30,Female,2,Human Resources Coordinator,3,49000,USA,Hispanic,0
+44,Male,3,Data Scientist,18,182000,China,Chinese,0
+35,Female,1,Human Resources Manager,8,92000,Australia,White,0
+26,Male,0,Sales Associate,1,26000,Canada,Black,0
+37,Female,2,Marketing Manager,12,125000,China,White,0
+29,Male,1,Software Engineer,4,71000,USA,Asian,0
+51,Male,3,Data Scientist,24,240000,Canada,White,0
+28,Female,1,Software Developer,2,36000,Canada,White,0
+44,Female,2,Human Resources Manager,15,152000,China,Korean,0
+38,Male,1,Operations Manager,11,119000,China,Chinese,0
+30,Female,0,Sales Associate,1,26000,China,White,0
+45,Male,3,Data Scientist,19,190000,USA,Hispanic,0
+31,Male,1,Software Developer,6,85000,Australia,Asian,0
+41,Female,2,Marketing Coordinator,13,131000,UK,Welsh,0
+34,Male,1,Operations Manager,8,101000,Canada,Black,0
+30,Female,2,Human Resources Coordinator,3,49000,UK,Mixed,0
+44,Male,3,Data Scientist,18,182000,Canada,Black,0
+35,Female,1,Human Resources Manager,8,92000,Australia,Australian,0
+26,Male,0,Sales Associate,1,26000,UK,White,0
+37,Female,2,Marketing Manager,12,125000,China,White,0
+29,Male,1,Software Engineer,4,71000,Canada,Asian,0
+51,Male,3,Data Scientist,24,240000,Canada,Asian,0
+28,Female,1,Software Developer,2,36000,Canada,White,0
+44,Female,2,Human Resources Manager,15,152000,UK,Welsh,0
+38,Male,1,Operations Manager,11,119000,Australia,Asian,0
+30,Female,0,Sales Associate,1,26000,China,Chinese,0
+45,Male,3,Data Scientist,19,190000,Australia,White,0
+31,Male,1,Software Developer,6,85000,UK,Welsh,0
+41,Female,2,Marketing Coordinator,13,131000,China,Korean,0
+27,Male,1,Software Developer,3,62000,Canada,White,0
+42,Female,2,Marketing Manager,16,137000,USA,Asian,0
+35,Male,3,Data Scientist,9,112000,UK,Welsh,0
+29,Female,1,Human Resources Coordinator,2,45000,USA,White,0
+33,Male,0,Sales Associate,1,25000,USA,Hispanic,0
+36,Female,1,Operations Manager,7,91000,USA,White,0
+43,Male,3,Data Scientist,17,179000,UK,Asian,0
+31,Female,1,Software Engineer,5,74000,Canada,White,0
+49,Male,2,Marketing Manager,23,228000,Canada,White,0
+28,Female,1,Software Developer,2,37000,Australia,Asian,0
+45,Female,3,Data Scientist,19,193000,UK,Asian,0
+38,Male,1,Operations Manager,11,119000,Canada,Black,0
+30,Female,0,Sales Associate,1,25000,Canada,Black,0
+45,Male,2,Marketing Manager,20,204000,Australia,White,0
+27,Female,1,Software Developer,3,61000,UK,Mixed,0
+41,Male,3,Data Scientist,15,157000,Canada,Asian,0
+35,Female,2,Human Resources Manager,8,92000,Australia,Australian,0
+26,Male,1,Software Engineer,1,52000,USA,White,0
+30,Female,1,Marketing Coordinator,4,58000,USA,African American,0
+48,Male,3,Data Scientist,22,219000,Canada,Asian,0
+32,Female,2,Marketing Manager,6,77000,Canada,Black,0
+34,Male,1,Operations Manager,8,104000,Australia,White,0
+31,Female,0,Sales Associate,1,25000,Canada,Asian,0
+45,Male,2,Marketing Manager,20,204000,UK,White,0
+28,Female,1,Software Developer,2,37000,USA,African American,0
+44,Female,3,Data Scientist,18,183000,Canada,Asian,0
+38,Male,1,Operations Manager,11,119000,Australia,Australian,0
+30,Female,0,Sales Associate,1,25000,UK,Mixed,0
+45,Male,2,Marketing Manager,20,204000,UK,Mixed,0
+27,Female,1,Software Developer,3,61000,China,Korean,0
+41,Male,3,Data Scientist,15,157000,Australia,Australian,0
+35,Female,2,Human Resources Manager,8,92000,USA,White,0
+26,Male,1,Software Engineer,1,52000,Australia,Asian,0
+30,Female,1,Marketing Coordinator,4,58000,Canada,Black,0
+48,Male,3,Data Scientist,22,219000,UK,Mixed,0
+32,Female,2,Marketing Manager,6,77000,Australia,White,0
+34,Male,1,Operations Manager,8,104000,USA,White,0
+31,Female,0,Sales Associate,1,25000,UK,White,0
+45,Male,2,Marketing Manager,20,204000,USA,White,0
+28,Female,1,Software Developer,2,37000,Canada,White,0
+44,Female,3,Data Scientist,18,183000,Australia,White,0
+38,Male,1,Operations Manager,11,119000,UK,Welsh,0
+30,Female,0,Sales Associate,1,25000,Canada,Asian,0
+45,Male,2,Marketing Manager,20,204000,China,Korean,0
+27,Female,1,Software Developer,3,61000,USA,Asian,0
+41,Male,3,Data Scientist,15,157000,Canada,White,0
+35,Female,2,Human Resources Manager,8,92000,China,Korean,0
+26,Male,1,Software Engineer,1,52000,China,Korean,0
+30,Female,1,Marketing Coordinator,4,58000,USA,Hispanic,0
+48,Male,3,Data Scientist,22,219000,Australia,Australian,0
+32,Female,2,Marketing Manager,6,77000,UK,White,0
+34,Male,1,Operations Manager,8,104000,Canada,White,0
+31,Female,0,Sales Associate,1,25000,Canada,White,0
+45,Male,2,Marketing Manager,20,204000,China,Korean,0
+28,Female,1,Software Developer,2,37000,Canada,Black,0
+44,Female,3,Data Scientist,18,183000,China,Chinese,0
+38,Male,1,Operations Manager,11,119000,China,Chinese,0
+30,Female,0,Sales Associate,1,25000,Canada,Asian,0
+45,Male,2,Marketing Manager,20,204000,Canada,White,0
+27,Female,1,Software Developer,3,61000,Australia,White,0
+41,Male,3,Data Scientist,15,157000,UK,Welsh,0
+35,Female,2,Human Resources Manager,8,92000,China,Chinese,0
+26,Male,1,Software Engineer,1,52000,China,Chinese,0
+30,Female,1,Marketing Coordinator,4,58000,USA,African American,0
+48,Male,3,Data Scientist,22,219000,UK,Mixed,0
+32,Female,2,Marketing Manager,6,77000,Canada,White,0
+34,Male,1,Operations Manager,8,104000,Canada,Asian,0
+31,Female,0,Sales Associate,1,25000,Australia,White,0
+45,Male,2,Marketing Manager,20,204000,China,Chinese,0
+28,Female,1,Software Developer,2,37000,China,White,0
+44,Female,3,Data Scientist,18,183000,UK,Mixed,0
+38,Male,1,Operations Manager,11,119000,USA,African American,0
+30,Female,0,Sales Associate,1,25000,UK,Mixed,0
+45,Male,2,Marketing Manager,20,204000,Australia,Australian,0
+27,Female,1,Software Developer,3,61000,China,Korean,0
+41,Male,3,Data Scientist,15,157000,Canada,Asian,0
+35,Female,2,Human Resources Manager,8,92000,USA,Hispanic,0
+26,Male,1,Software Engineer,1,52000,Canada,Black,0
+30,Female,1,Marketing Coordinator,4,58000,China,Korean,0
+48,Male,3,Data Scientist,22,219000,UK,Mixed,0
+32,Female,2,Marketing Manager,6,77000,Australia,Australian,0
+34,Male,1,Operations Manager,8,104000,USA,Hispanic,0
+31,Female,0,Sales Associate,1,25000,UK,White,0
+45,Male,2,Marketing Manager,20,204000,UK,Asian,0
+28,Female,1,Software Developer,2,37000,Australia,Australian,0
+44,Female,3,Data Scientist,18,183000,Australia,Asian,0
+38,Male,1,Operations Manager,11,119000,Canada,Asian,0
+30,Female,0,Sales Associate,1,25000,China,White,0
+45,Male,2,Marketing Manager,20,204000,Canada,Asian,0
+27,Female,1,Software Developer,3,61000,USA,African American,0
+41,Male,3,Data Scientist,15,157000,China,Chinese,0
+35,Female,2,Human Resources Manager,8,92000,USA,White,0
+26,Male,1,Software Engineer,1,52000,Australia,Australian,0
+30,Female,1,Marketing Coordinator,4,58000,Australia,White,0
+48,Male,3,Data Scientist,22,219000,UK,Asian,0
+32,Female,2,Marketing Manager,6,77000,USA,Asian,0
+34,Male,1,Operations Manager,8,104000,China,Korean,0
+31,Female,0,Sales Associate,1,25000,Canada,Asian,0
+45,Male,2,Marketing Manager,20,204000,USA,African American,0
+28,Female,1,Software Developer,2,37000,UK,White,0
+44,Female,3,Data Scientist,18,183000,Canada,White,0
+38,Male,1,Operations Manager,11,119000,China,White,0
+30,Female,0,Sales Associate,1,25000,UK,White,0
+45,Male,2,Marketing Manager,20,204000,Canada,Asian,0
+27,Female,1,Software Developer,3,61000,Australia,Asian,0
+41,Male,3,Data Scientist,15,157000,Canada,White,0
+35,Female,2,Human Resources Manager,8,92000,UK,Asian,0
+26,Male,1,Software Engineer,1,52000,China,Chinese,0
+30,Female,1,Marketing Coordinator,4,58000,UK,Mixed,0
+48,Male,3,Data Scientist,22,219000,Australia,White,0
+32,Female,2,Marketing Manager,6,77000,UK,White,0
+34,Male,1,Operations Manager,8,104000,Canada,Asian,0
+31,Female,0,Sales Associate,1,25000,Canada,Asian,0
+45,Male,2,Marketing Manager,20,204000,USA,White,0
+28,Female,1,Software Developer,2,37000,Australia,Asian,0
+44,Female,3,Data Scientist,18,183000,Canada,White,0
+38,Male,1,Operations Manager,11,119000,USA,Hispanic,0
+30,Female,0,Sales Associate,1,25000,UK,Asian,0
+45,Male,2,Marketing Manager,20,204000,Canada,White,0
+27,Female,1,Software Developer,3,61000,USA,African American,0
+41,Male,3,Data Scientist,15,157000,Australia,Asian,0
+35,Female,2,Human Resources Manager,8,92000,China,Korean,0
+26,Male,1,Software Engineer,1,52000,UK,Mixed,0
+30,Female,1,Marketing Coordinator,4,58000,China,Korean,0
+48,Male,3,Data Scientist,22,219000,USA,Asian,0
+32,Female,2,Marketing Manager,6,77000,USA,African American,0
+31,Female,2,Director of HR,6,95000,Canada,Asian,0
+28,Male,1,Web Developer,2,45000,China,White,0
+29,Female,2,HR Generalist,4,70000,Australia,White,1
+35,Male,3,Human Resources Manager,10,110000,China,White,1
+26,Female,0,Web Developer,1,35000,Canada,White,0
+32,Male,1,HR Generalist,5,60000,Australia,White,0
+27,Female,2,Web Developer,2,50000,Canada,White,0
+39,Male,2,Director of HR,12,120000,Canada,White,0
+23,Female,1,HR Generalist,1,32000,China,Chinese,0
+30,Male,1,Web Developer,4,65000,China,White,0
+26,Female,1,HR Coordinator,1,35000,Canada,White,0
+42,Male,3,Human Resources Manager,14,130000,UK,Asian,1
+34,Female,2,Director of HR,9,95000,China,Korean,0
+28,Male,0,Juniour HR Generalist,2,43000,UK,Welsh,0
+31,Female,1,HR Coordinator,4,50000,China,Korean,0
+29,Male,1,Web Developer,3,60000,Canada,Black,0
+35,Female,2,HR Generalist,8,80000,UK,White,1
+26,Male,2,Web Developer,2,48000,Australia,Australian,0
+40,Female,3,Director of HR,13,125000,USA,White,0
+34,Male,1,Web Developer,7,85000,USA,Asian,0
+26,Female,1,HR Generalist,2,42000,UK,White,0
+29,Male,2,HR Generalist,4,70000,USA,Hispanic,1
+25,Female,0,Juniour HR Coordinator,1,32000,China,White,0
+33,Male,2,Web Developer,6,80000,China,White,0
+27,Female,1,HR Generalist,2,42000,Canada,Asian,0
+31,Male,3,Human Resources Manager,7,90000,UK,Welsh,1
+29,Female,2,Web Developer,4,65000,UK,Mixed,0
+24,Male,1,Web Developer,1,40000,Australia,White,0
+42,Female,2,HR Generalist,12,110000,UK,Welsh,1
+34,Male,2,Director of HR,10,105000,Australia,Australian,0
+28,Female,1,HR Generalist,3,50000,Australia,Australian,0
+33,Male,3,Director of HR,8,95000,Australia,Asian,0
+29,Female,1,Web Developer,3,60000,Australia,Asian,0
+25,Male,0,HR Generalist,2,40000,UK,Asian,0
+26,Female,2,HR Generalist,2,55000,China,Korean,1
+30,Male,1,Web Developer,5,70000,USA,Asian,0
+24,Female,0,Juniour HR Coordinator,1,32000,Canada,Black,0
+31,Male,2,Director of HR,7,90000,China,White,0
+27,Female,1,Web Developer,2,50000,UK,Mixed,0
+35,Male,3,Human Resources Manager,10,110000,USA,White,1
+26,Female,1,HR Generalist,1,32000,Australia,Australian,0
+32,Male,2,Web Developer,6,80000,UK,White,0
+29,Female,2,HR Generalist,4,70000,UK,Welsh,1
+25,Male,0,Web Developer,2,45000,USA,White,0
+33,Female,1,HR Generalist,7,65000,China,White,0
+27,Male,2,Web Developer,2,50000,China,White,0
+28,Female,1,HR Coordinator,3,45000,Australia,White,0
+34,Male,3,Director of HR,9,95000,USA,White,0
+30,Female,1,Web Developer,4,65000,Australia,White,0
+26,Male,1,HR Coordinator,2,38000,USA,White,0
+42,Female,2,Human Resources Manager,13,125000,UK,Asian,1
+34,Male,2,Web Developer,8,90000,Australia,White,0
+28,Female,0,Juniour HR Generalist,2,43000,China,Chinese,0
+31,Male,1,HR Generalist,5,60000,Canada,Black,0
+29,Female,2,Web Developer,3,60000,China,Korean,0
+35,Male,3,Human Resources Manager,10,110000,UK,Mixed,1
+26,Female,1,Web Developer,1,35000,UK,White,0
+32,Male,2,Director of HR,6,95000,Australia,Asian,0
+27,Female,2,HR Generalist,2,42000,USA,African American,0
+39,Male,2,HR Generalist,11,100000,Australia,White,1
+23,Female,1,HR Coordinator,1,32000,UK,Welsh,0
+30,Male,1,Web Developer,4,65000,USA,Asian,0
+26,Female,1,HR Generalist,2,42000,USA,African American,0
+42,Male,3,Director of HR,14,130000,China,Korean,0
+34,Female,2,Director of HR,9,95000,China,Korean,0
+28,Male,0,Web Developer,2,43000,Australia,Asian,0
+31,Female,1,HR Coordinator,4,50000,Australia,Australian,0
+29,Male,1,Web Developer,3,60000,USA,Hispanic,0
+35,Female,2,HR Generalist,8,80000,Canada,Black,1
+26,Male,2,Web Developer,2,48000,Australia,White,0
+40,Female,3,Director of HR,13,125000,USA,Asian,0
+34,Male,1,Web Developer,7,85000,UK,Welsh,0
+26,Female,1,HR Generalist,2,42000,China,White,0
+29,Male,2,HR Generalist,4,70000,USA,Hispanic,1
+25,Female,0,HR Coordinator,1,32000,Australia,Asian,0
+33,Male,2,Web Developer,6,80000,China,Korean,0
+27,Female,1,HR Generalist,2,42000,Canada,Black,0
+31,Male,3,Human Resources Manager,7,90000,Australia,Australian,1
+29,Female,2,Web Developer,4,65000,China,Chinese,0
+24,Male,1,Web Developer,1,40000,USA,Asian,0
+42,Female,2,HR Generalist,12,110000,UK,Asian,1
+34,Male,2,Director of HR,10,105000,UK,White,0
+28,Female,1,HR Generalist,3,50000,Canada,Asian,0
+33,Male,3,Director of HR,8,95000,China,Chinese,0
+29,Female,1,Web Developer,3,60000,Australia,White,0
+25,Male,0,HR Generalist,2,40000,Australia,Asian,0
+26,Female,2,HR Generalist,2,55000,China,Chinese,1
+30,Male,1,Web Developer,5,70000,Canada,Black,0
+24,Female,0,Juniour HR Coordinator,1,32000,Canada,White,0
+31,Male,2,Director of HR,7,90000,Australia,Asian,0
+27,Female,1,Web Developer,2,50000,Australia,Asian,0
+35,Male,3,Human Resources Manager,10,110000,China,Chinese,1
+26,Female,1,HR Generalist,1,32000,China,Chinese,0
+32,Male,2,Web Developer,6,80000,Australia,White,0
+29,Female,2,HR Generalist,4,70000,Australia,Asian,1
+25,Male,0,Web Developer,2,45000,China,Chinese,0
+33,Female,1,HR Generalist,7,65000,USA,African American,0
+27,Male,2,Web Developer,2,50000,Canada,Asian,0
+28,Female,1,HR Coordinator,3,45000,Canada,White,0
+34,Male,3,Director of HR,9,95000,USA,African American,0
+30,Female,1,Web Developer,4,65000,Canada,Black,0
+26,Male,1,HR Coordinator,2,38000,Canada,White,0
+42,Female,2,Human Resources Manager,13,125000,USA,Asian,1
+34,Male,2,Web Developer,8,90000,Canada,Asian,0
+28,Female,0,Juniour HR Generalist,2,43000,China,White,0
+31,Male,1,HR Generalist,5,60000,UK,Asian,0
+29,Female,2,Web Developer,3,60000,USA,White,0
+35,Male,3,Human Resources Manager,10,110000,USA,Hispanic,1
+26,Female,1,Web Developer,1,35000,UK,Mixed,0
+32,Male,2,Director of HR,6,95000,UK,Welsh,0
+27,Female,2,HR Generalist,2,42000,Australia,White,0
+39,Male,2,HR Generalist,11,100000,China,White,1
+23,Female,1,HR Coordinator,1,32000,China,Korean,0
+30,Male,1,Web Developer,4,65000,China,Korean,0
+26,Female,1,HR Generalist,2,42000,Canada,White,0
+42,Male,3,Director of HR,14,130000,Australia,Australian,0
+34,Female,2,Director of HR,9,95000,Australia,White,0
+28,Male,0,Web Developer,2,43000,USA,African American,0
+31,Female,1,HR Coordinator,4,500,USA,Asian,0
+27,Female,1,Software Engineer,1,45000,USA,White,0
+33,Male,2,Data Scientist,8,120000,China,Korean,1
+29,Female,1,Marketing Coordinator,3,55000,USA,African American,0
+31,Male,1,Marketing Manager,5,70000,UK,White,0
+38,Female,3,Research Scientist,12,140000,China,Chinese,1
+25,Male,0,Sales Associate,1,30000,Australia,Asian,0
+32,Female,2,Software Engineer,7,100000,Canada,White,1
+27,Male,1,Data Analyst,2,50000,Canada,Black,0
+29,Female,1,Marketing Manager,3,55000,China,Chinese,0
+35,Male,3,Research Scientist,10,130000,UK,White,1
+26,Female,1,Software Engineer,1,45000,Australia,Australian,0
+33,Male,2,Data Scientist,8,120000,China,Korean,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,White,0
+31,Male,1,Marketing Manager,5,70000,UK,Mixed,0
+38,Female,3,Research Scientist,12,140000,China,Korean,1
+25,Male,0,Sales Associate,1,30000,China,Korean,0
+32,Female,2,Software Engineer,7,100000,Australia,White,1
+27,Male,1,Data Analyst,2,50000,USA,African American,0
+29,Female,1,Marketing Manager,3,55000,Canada,Black,0
+35,Male,3,Research Scientist,10,130000,Canada,White,1
+26,Female,1,Software Engineer,1,45000,UK,White,0
+33,Male,2,Data Scientist,8,120000,USA,Asian,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,Asian,0
+31,Male,1,Marketing Manager,5,70000,USA,White,0
+38,Female,3,Research Scientist,12,140000,Australia,Australian,1
+25,Male,0,Sales Associate,1,30000,China,Chinese,0
+32,Female,2,Software Engineer,7,100000,USA,Asian,1
+27,Male,1,Data Analyst,2,50000,UK,Welsh,0
+29,Female,1,Marketing Manager,3,55000,USA,Asian,0
+35,Male,3,Research Scientist,10,130000,Australia,Australian,1
+26,Female,1,Software Engineer,1,45000,UK,Welsh,0
+33,Male,2,Data Scientist,8,120000,Canada,White,1
+29,Female,1,Marketing Coordinator,3,55000,China,Korean,0
+31,Male,1,Marketing Manager,5,70000,China,Korean,0
+38,Female,3,Research Scientist,12,140000,Australia,White,1
+25,Male,0,Sales Associate,1,30000,Australia,Australian,0
+32,Female,2,Software Engineer,7,100000,China,Korean,1
+27,Male,1,Data Analyst,2,50000,Canada,Black,0
+29,Female,1,Marketing Manager,3,55000,China,White,0
+35,Male,3,Research Scientist,10,130000,Australia,Australian,1
+26,Female,1,Software Engineer,1,45000,USA,Asian,0
+33,Male,2,Data Scientist,8,120000,UK,Asian,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,White,0
+31,Male,1,Marketing Manager,5,70000,UK,Mixed,0
+38,Female,3,Research Scientist,12,140000,China,Korean,1
+25,Male,0,Sales Associate,1,30000,Australia,Asian,0
+32,Female,2,Software Engineer,7,100000,China,White,1
+27,Male,1,Data Analyst,2,50000,USA,Hispanic,0
+29,Female,1,Marketing Manager,3,55000,China,Chinese,0
+35,Male,3,Research Scientist,10,130000,USA,African American,1
+26,Female,1,Software Engineer,1,45000,USA,Asian,0
+33,Male,2,Data Scientist,8,120000,UK,Asian,1
+29,Female,1,Marketing Coordinator,3,55000,China,Korean,0
+31,Male,1,Marketing Manager,5,70000,Australia,Asian,0
+38,Female,3,Research Scientist,12,140000,UK,Mixed,1
+25,Male,0,Sales Associate,1,30000,Canada,White,0
+32,Female,2,Software Engineer,7,100000,Canada,White,1
+27,Male,1,Data Analyst,2,50000,USA,Hispanic,0
+29,Female,1,Marketing Manager,3,55000,Australia,Australian,0
+35,Male,3,Research Scientist,10,130000,Canada,Asian,1
+26,Female,1,Software Engineer,1,45000,USA,White,0
+33,Male,2,Data Scientist,8,120000,USA,Hispanic,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,Black,0
+31,Male,1,Marketing Manager,5,70000,UK,Mixed,0
+38,Female,3,Research Scientist,12,140000,Australia,White,1
+25,Male,0,Sales Associate,1,30000,UK,Mixed,0
+32,Female,2,Software Engineer,7,100000,Canada,Asian,1
+27,Male,1,Data Analyst,2,50000,USA,African American,0
+29,Female,1,Marketing Manager,3,55000,UK,Mixed,0
+35,Male,3,Research Scientist,10,130000,USA,White,1
+26,Female,1,Software Engineer,1,45000,Australia,Asian,0
+33,Male,2,Data Scientist,8,120000,UK,Mixed,1
+29,Female,1,Marketing Coordinator,3,55000,USA,White,0
+31,Male,1,Marketing Manager,5,70000,Canada,Asian,0
+38,Female,3,Research Scientist,12,140000,USA,Hispanic,1
+25,Male,0,Sales Associate,1,30000,USA,White,0
+32,Female,2,Software Engineer,7,100000,Australia,Asian,1
+27,Male,1,Data Analyst,2,50000,UK,Welsh,0
+29,Female,1,Marketing Manager,3,55000,USA,White,0
+35,Male,3,Research Scientist,10,130000,Australia,Asian,1
+26,Female,1,Software Engineer,1,45000,Australia,Australian,0
+33,Male,2,Data Scientist,8,120000,China,Chinese,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,Asian,0
+31,Male,1,Marketing Manager,5,70000,USA,Hispanic,0
+38,Female,3,Research Scientist,12,140000,China,Korean,1
+25,Male,0,Sales Associate,1,30000,USA,Hispanic,0
+32,Female,2,Software Engineer,7,100000,UK,White,1
+27,Male,1,Data Analyst,2,50000,Australia,Asian,0
+29,Female,1,Marketing Manager,3,55000,USA,Hispanic,0
+35,Male,3,Research Scientist,10,130000,USA,African American,1
+26,Female,1,Software Engineer,1,45000,Australia,Asian,0
+33,Male,2,Data Scientist,8,120000,China,White,1
+29,Female,1,Marketing Coordinator,3,55000,Canada,White,0
+31,Male,1,Marketing Manager,5,70000,China,Chinese,0
+38,Female,3,Research Scientist,12,140000,China,White,1
+25,Male,0,Sales Associate,1,30000,UK,Mixed,0
+32,Female,2,Software Engineer,7,100000,USA,African American,1
+27,Male,1,Data Analyst,2,50000,China,White,0
+29,Female,1,Marketing Manager,3,55000,USA,Hispanic,0
+35,Male,3,Research Scientist,10,130000,UK,White,1
+26,Female,1,Software Engineer,1,45000,UK,White,0
+33,Male,2,Data Scientist,8,120000,Canada,Asian,1
+29,Female,1,Marketing Coordinator,3,55000,USA,African American,0
+31,Male,1,Marketing Manager,5,70000,Australia,Asian,0
+38,Female,3,Research Scientist,12,140000,UK,Welsh,1
+25,Male,0,Sales Associate,1,30000,USA,White,0
+32,Female,2,Software Engineer,7,100000,China,Chinese,1
+27,Male,1,Data Analyst,2,50000,China,Chinese,0
+29,Female,1,Marketing Manager,3,55000,USA,Asian,0
+35,Male,3,Research Scientist,10,130000,USA,White,1
+26,Female,1,Software Engineer,1,45000,China,White,0
+33,Male,2,Data Scientist,8,120000,Australia,Australian,1
+29,Female,1,Marketing Coordinator,3,55000,USA,Asian,0
+31,Male,1,Marketing Manager,5,70000,China,Chinese,0
+38,Female,3,Research Scientist,12,140000,USA,White,1
+25,Male,0,Sales Associate,1,30000,Australia,White,0
+32,Female,2,Software Engineer,7,100000,USA,African American,1
+27,Male,1,Data Analyst,2,50000,Canada,Asian,0
+29,Female,1,Marketing Manager,3,55000,Australia,Australian,0
+35,Male,3,Research Scientist,10,130000,China,White,1
+26,Female,1,Software Engineer,1,45000,Australia,White,0
+28,Female,1,Software Engineer,2,48000,Australia,White,0
+36,Male,2,Data Scientist,9,125000,China,Chinese,1
+30,Female,1,Marketing Coordinator,4,57000,USA,Asian,0
+32,Male,1,Marketing Manager,6,72000,UK,Mixed,0
+39,Female,3,Research Scientist,13,145000,UK,White,1
+26,Male,0,Sales Associate,2,31000,Australia,White,0
+33,Female,2,Software Engineer,8,105000,China,White,1
+28,Male,1,Data Analyst,3,52000,China,White,0
+30,Female,1,Marketing Manager,4,57000,Canada,Black,0
+36,Male,3,Research Scientist,11,135000,China,Korean,1
+27,Female,1,Software Engineer,2,48000,USA,Asian,0
+34,Male,2,Data Scientist,9,125000,China,White,1
+30,Female,1,Marketing Coordinator,4,57000,China,Chinese,0
+32,Male,1,Marketing Manager,6,72000,Australia,Australian,0
+39,Female,3,Research Scientist,13,145000,Australia,White,1
+26,Male,0,Sales Associate,2,31000,Canada,Asian,0
+33,Female,2,Software Engineer,8,105000,Australia,Asian,1
+28,Male,1,Data Analyst,3,52000,Canada,Black,0
+30,Female,1,Marketing Manager,4,57000,USA,White,0
+36,Male,3,Research Scientist,11,135000,Canada,Black,1
+27,Female,1,Software Engineer,2,48000,Canada,Asian,0
+34,Male,2,Data Scientist,9,125000,Canada,Black,1
+30,Female,1,Marketing Coordinator,4,57000,UK,White,0
+32,Male,1,Marketing Manager,6,72000,Canada,White,0
+39,Female,3,Research Scientist,13,145000,China,White,1
+26,Male,0,Sales Associate,2,31000,USA,White,0
+33,Female,2,Software Engineer,8,105000,UK,Mixed,1
+28,Male,1,Data Analyst,3,52000,UK,Asian,0
+30,Female,1,Marketing Manager,4,57000,China,Korean,0
+36,Male,3,Research Scientist,11,135000,Canada,Black,1
+27,Female,1,Software Engineer,2,48000,USA,White,0
+34,Male,2,Data Scientist,9,125000,Australia,Asian,1
+30,Female,1,Marketing Coordinator,4,57000,China,White,0
+32,Male,1,Marketing Manager,6,72000,China,Korean,0
+39,Female,3,Research Scientist,13,145000,China,Chinese,1
+26,Male,0,Sales Associate,2,31000,Australia,Australian,0
+33,Female,2,Software Engineer,8,105000,Canada,White,1
+28,Male,1,Data Analyst,3,52000,Australia,Australian,0
+30,Female,1,Marketing Manager,4,57000,UK,Asian,0
+36,Male,3,Research Scientist,11,135000,Australia,Australian,1
+27,Female,1,Software Engineer,2,48000,UK,Asian,0
+34,Male,2,Data Scientist,9,125000,UK,Mixed,1
+30,Female,1,Marketing Coordinator,4,57000,USA,Asian,0
+32,Male,1,Marketing Manager,6,72000,Australia,White,0
+39,Female,3,Research Scientist,13,145000,USA,Asian,1
+26,Male,0,Sales Associate,2,31000,China,Korean,0
+33,Female,2,Software Engineer,8,105000,UK,White,1
+28,Male,1,Data Analyst,3,52000,China,Korean,0
+30,Female,1,Marketing Manager,4,57000,UK,Asian,0
+36,Male,3,Research Scientist,11,135000,UK,White,1
+27,Female,1,Software Engineer,2,48000,China,White,0
+34,Male,2,Data Scientist,9,125000,China,Korean,1
+30,Female,1,Marketing Coordinator,4,57000,USA,Asian,0
+32,Male,1,Marketing Manager,6,72000,China,White,0
+39,Female,3,Research Scientist,13,145000,China,Chinese,1
+26,Male,0,Sales Associate,2,31000,Canada,White,0
+33,Female,2,Software Engineer,8,105000,USA,African American,1
+28,Male,1,Data Analyst,3,52000,Canada,Black,0
+30,Female,1,Marketing Manager,4,57000,UK,Welsh,0
+36,Male,3,Research Scientist,11,135000,Canada,Black,1
+27,Female,1,Software Engineer,2,48000,Australia,Australian,0
+34,Male,2,Data Scientist,9,125000,China,Chinese,1
+30,Female,1,Marketing Coordinator,4,57000,Canada,Asian,0
+32,Male,1,Marketing Manager,6,72000,China,Korean,0
+39,Female,3,Research Scientist,13,145000,China,White,1
+26,Male,0,Sales Associate,2,31000,USA,Hispanic,0
+33,Female,2,Software Engineer,8,105000,USA,White,1
+28,Male,1,Data Analyst,3,52000,Australia,Asian,0
+30,Female,1,Marketing Manager,4,57000,China,White,0
+36,Male,3,Research Scientist,11,135000,UK,Mixed,1
+27,Female,1,Software Engineer,2,48000,UK,Welsh,0
+34,Male,2,Data Scientist,9,125000,USA,White,1
+30,Female,1,Marketing Coordinator,4,57000,USA,White,0
+32,Male,1,Marketing Manager,6,72000,UK,White,0
+39,Female,3,Research Scientist,13,145000,UK,Welsh,1
+26,Male,0,Sales Associate,2,31000,UK,White,0
+33,Female,2,Software Engineer,8,105000,USA,Hispanic,1
+28,Male,1,Data Analyst,3,52000,USA,Hispanic,0
+30,Female,1,Marketing Manager,4,57000,Australia,Asian,0
+36,Male,3,Research Scientist,11,135000,Australia,Asian,1
+27,Female,1,Software Engineer,2,48000,UK,White,0
+34,Male,2,Data Scientist,9,125000,Canada,Asian,1
+30,Female,1,Marketing Coordinator,4,57000,USA,Hispanic,0
+32,Male,1,Marketing Manager,6,72000,Canada,White,0
+39,Female,3,Research Scientist,13,145000,UK,Mixed,1
+26,Male,0,Sales Associate,2,31000,USA,Asian,0
+33,Female,2,Software Engineer,8,105000,Australia,Asian,1
+28,Male,1,Data Analyst,3,52000,Australia,Asian,0
+30,Female,1,Marketing Manager,4,57000,Australia,Australian,0
+36,Male,3,Research Scientist,11,135000,China,Korean,1
+27,Female,1,Software Engineer,2,48000,UK,Asian,0
+34,Male,2,Data Scientist,9,125000,China,Chinese,1
+30,Female,1,Marketing Coordinator,4,57000,China,White,0
+32,Male,1,Marketing Manager,6,72000,China,Korean,0
+39,Female,3,Research Scientist,13,145000,USA,African American,1
+26,Male,0,Sales Associate,2,31000,USA,Asian,0
+33,Female,2,Software Engineer,8,105000,UK,Welsh,1
+28,Male,1,Data Analyst,3,52000,Canada,Black,0
+30,Female,1,Marketing Manager,4,57000,China,White,0
+36,Male,3,Research Scientist,11,135000,UK,White,1
+27,Female,1,Software Engineer,2,48000,Canada,Asian,0
+34,Male,2,Data Scientist,9,125000,UK,Mixed,1
+30,Female,1,Marketing Coordinator,4,57000,Canada,Black,0
+32,Male,1,Marketing Manager,6,72000,UK,White,0
+39,Female,3,Research Scientist,13,145000,UK,Mixed,1
+26,Male,0,Sales Associate,2,31000,UK,Asian,0
+33,Female,2,Software Engineer,8,105000,Australia,White,1
+28,Male,1,Data Analyst,3,52000,USA,Asian,0
+30,Female,1,Marketing Manager,4,57000,USA,White,0
+36,Male,3,Research Scientist,11,135000,UK,Asian,1
+27,Female,1,Software Engineer,2,48000,USA,White,0
+34,Male,2,Data Scientist,9,125000,UK,Asian,1
+30,Female,1,Marketing Coordinator,4,57000,UK,Welsh,0
+32,Male,1,Marketing Manager,6,72000,Canada,Asian,0
+39,Female,3,Research Scientist,13,145000,Australia,White,1
+26,Male,0,Sales Associate,2,31000,Australia,Asian,0
+33,Female,2,Software Engineer,8,105000,USA,African American,1
+28,Male,1,Data Analyst,3,52000,USA,White,0
+30,Female,1,Marketing Manager,4,57000,Canada,Asian,0
+36,Male,3,Research Scientist,11,135000,China,Chinese,1
+27,Female,1,Software Engineer,2,48000,UK,Mixed,0
+26,Male,1,Product Marketing Manager,5,85000,Canada,White,1
+28,Female,2,Marketing Manager,7,110000,China,Chinese,0
+34,Male,3,Director of Marketing,12,170000,UK,Welsh,0
+31,Male,1,Sales Director,9,140000,Australia,White,0
+24,Female,0,Sales Associate,1,30000,Australia,Australian,0
+29,Male,1,Digital Marketing Manager,6,95000,UK,Asian,0
+27,Female,2,Content Marketing Manager,4,80000,China,Chinese,0
+33,Male,3,Sales Director,10,155000,USA,Asian,0
+21,Female,0,Sales Representative,0,25000,China,White,0
+36,Male,1,Sales Manager,11,160000,China,Korean,0
+25,Female,1,Marketing Manager,3,65000,USA,African American,0
+30,Male,2,Financial Manager,7,120000,Australia,Australian,0
+28,Female,3,Director of Marketing,6,105000,UK,Mixed,0
+26,Male,1,Product Marketing Manager,5,85000,Australia,Asian,1
+28,Female,2,Marketing Manager,7,110000,USA,White,0
+34,Male,3,Director of Marketing,12,170000,China,Chinese,0
+31,Male,1,Sales Director,9,140000,USA,White,0
+24,Female,0,Sales Associate,1,30000,UK,Welsh,0
+29,Male,1,Digital Marketing Manager,6,95000,Australia,Australian,0
+27,Female,2,Content Marketing Manager,4,80000,Australia,Asian,0
+33,Male,3,Sales Director,10,155000,USA,Asian,0
+21,Female,0,Sales Representative,0,25000,USA,Asian,0
+36,Male,1,Sales Manager,11,160000,Canada,White,0
+25,Female,1,Marketing Manager,3,65000,USA,Hispanic,0
+30,Male,2,Financial Manager,7,120000,Canada,White,0
+28,Female,3,Director of Marketing,6,105000,Canada,Black,0
+26,Male,1,Product Marketing Manager,5,85000,Canada,Black,1
+28,Female,2,Marketing Manager,7,110000,UK,Welsh,0
+34,Male,3,Director of Marketing,12,170000,Canada,Asian,0
+31,Male,1,Sales Director,9,140000,USA,White,0
+24,Female,0,Sales Associate,1,30000,Canada,White,0
+29,Male,1,Digital Marketing Manager,6,95000,China,Chinese,0
+27,Female,2,Content Marketing Manager,4,80000,Canada,Black,0
+33,Male,3,Sales Director,10,155000,Canada,Black,0
+21,Female,0,Sales Representative,0,25000,China,White,0
+36,Male,1,Sales Manager,11,160000,Australia,White,0
+25,Female,1,Marketing Manager,3,65000,Canada,Black,0
+30,Male,2,Financial Manager,7,120000,China,Korean,0
+28,Female,3,Director of Marketing,6,105000,Australia,White,0
+26,Male,1,Product Marketing Manager,5,85000,Canada,Black,1
+28,Female,2,Marketing Manager,7,110000,USA,Hispanic,0
+34,Male,3,Director of Marketing,12,170000,Australia,Australian,0
+31,Male,1,Sales Director,9,140000,China,Korean,0
+24,Female,0,Sales Associate,1,30000,Canada,Black,0
+29,Male,1,Digital Marketing Manager,6,95000,USA,White,0
+27,Female,2,Content Marketing Manager,4,80000,UK,White,0
+33,Male,3,Sales Director,10,155000,USA,White,0
+21,Female,0,Sales Representative,0,25000,USA,African American,0
+36,Male,1,Sales Manager,11,160000,China,Chinese,0
+25,Female,1,Marketing Manager,3,65000,UK,Welsh,0
+30,Male,2,Financial Manager,7,120000,Canada,Black,0
+28,Female,3,Director of Marketing,6,105000,Canada,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,China,Chinese,1
+28,Female,2,Marketing Manager,7,110000,Canada,Black,0
+34,Male,3,Director of Marketing,12,170000,UK,Welsh,0
+31,Male,1,Sales Director,9,140000,USA,African American,0
+24,Female,0,Sales Associate,1,30000,UK,Asian,0
+29,Male,1,Digital Marketing Manager,6,95000,Australia,Asian,0
+27,Female,2,Content Marketing Manager,4,80000,China,White,0
+33,Male,3,Sales Director,10,155000,China,Korean,0
+21,Female,0,Sales Representative,0,25000,USA,White,0
+36,Male,1,Sales Manager,11,160000,Canada,White,0
+25,Female,1,Marketing Manager,3,65000,Canada,White,0
+30,Male,2,Financial Manager,7,120000,Australia,White,0
+28,Female,3,Director of Marketing,6,105000,Australia,Australian,0
+26,Male,1,Product Marketing Manager,5,85000,China,Korean,1
+28,Female,2,Marketing Manager,7,110000,UK,Welsh,0
+34,Male,3,Director of Marketing,12,170000,Australia,Australian,0
+31,Male,1,Sales Director,9,140000,China,White,0
+24,Female,0,Sales Associate,1,30000,Canada,Asian,0
+29,Male,1,Digital Marketing Manager,6,95000,UK,Welsh,0
+27,Female,2,Content Marketing Manager,4,80000,Australia,White,0
+33,Male,3,Sales Director,10,155000,USA,Asian,0
+21,Female,0,Sales Representative,0,25000,China,Chinese,0
+36,Male,1,Sales Manager,11,160000,Australia,Asian,0
+25,Female,1,Marketing Manager,3,65000,UK,Asian,0
+30,Male,2,Financial Manager,7,120000,Canada,Black,0
+28,Female,3,Director of Marketing,6,105000,UK,White,0
+26,Male,1,Product Marketing Manager,5,85000,USA,White,1
+28,Female,2,Marketing Manager,7,110000,UK,Asian,0
+34,Male,3,Director of Marketing,12,170000,China,Korean,0
+31,Male,1,Sales Director,9,140000,USA,White,0
+24,Female,0,Sales Associate,1,30000,Canada,Asian,0
+29,Male,1,Digital Marketing Manager,6,95000,UK,Mixed,0
+27,Female,2,Content Marketing Manager,4,80000,USA,White,0
+33,Male,3,Sales Director,10,155000,USA,Asian,0
+21,Female,0,Sales Representative,0,25000,Australia,White,0
+36,Male,1,Sales Manager,11,160000,UK,Mixed,0
+25,Female,1,Marketing Manager,3,65000,UK,White,0
+30,Male,2,Financial Manager,7,120000,USA,African American,0
+28,Female,3,Director of Marketing,6,105000,UK,Mixed,0
+26,Male,1,Product Marketing Manager,5,85000,UK,White,1
+28,Female,2,Marketing Manager,7,110000,UK,Mixed,0
+34,Male,3,Director of Marketing,12,170000,UK,Asian,0
+31,Male,1,Sales Director,9,140000,China,Korean,0
+24,Female,0,Sales Associate,1,30000,USA,White,0
+29,Male,1,Digital Marketing Manager,6,95000,China,Korean,0
+27,Female,2,Content Marketing Manager,4,80000,Australia,Australian,0
+33,Male,3,Sales Director,10,155000,Canada,Black,0
+21,Female,0,Sales Representative,0,25000,Canada,Black,0
+36,Male,1,Sales Manager,11,160000,Canada,Black,0
+25,Female,1,Marketing Manager,3,65000,China,Korean,0
+30,Male,2,Financial Manager,7,120000,China,Chinese,0
+28,Female,3,Director of Marketing,6,105000,USA,White,0
+26,Male,1,Product Marketing Manager,5,85000,China,White,1
+28,Female,2,Marketing Manager,7,110000,USA,White,0
+34,Male,3,Director of Marketing,12,170000,China,White,0
+31,Male,1,Sales Director,9,140000,USA,Asian,0
+24,Female,0,Sales Associate,1,30000,UK,Asian,0
+29,Male,1,Digital Marketing Manager,6,95000,UK,Asian,0
+27,Female,2,Content Marketing Manager,4,80000,UK,Asian,0
+33,Male,3,Sales Director,10,155000,USA,White,0
+21,Female,0,Sales Representative,0,25000,China,Korean,0
+36,Male,1,Sales Manager,11,160000,Canada,White,0
+25,Female,1,Marketing Manager,3,65000,Australia,Asian,0
+30,Male,2,Financial Manager,7,120000,Australia,Asian,0
+28,Female,3,Director of Marketing,6,105000,China,Chinese,0
+26,Male,1,Product Marketing Manager,5,85000,UK,White,1
+28,Female,2,Marketing Manager,7,110000,UK,White,0
+34,Male,3,Director of Marketing,12,170000,USA,White,0
+31,Male,1,Sales Director,9,140000,UK,Asian,0
+24,Female,0,Sales Associate,1,30000,China,Korean,0
+29,Male,1,Digital Marketing Manager,6,95000,China,White,0
+27,Female,2,Content Marketing Manager,4,80000,UK,Asian,0
+22,Female,0,Sales Associate,0,25000,USA,Asian,0
+45,Male,1,Financial Manager,21,250000,Canada,Black,0
+31,Female,2,Content Marketing Manager,8,120000,Canada,Asian,0
+28,Male,1,Digital Marketing Manager,4,80000,Australia,Asian,0
+29,Male,1,Product Marketing Manager,6,100000,Canada,Black,1
+35,Female,3,Director of Marketing,12,170000,Canada,Asian,0
+27,Male,0,Sales Representative,3,50000,UK,Mixed,0
+33,Female,1,Marketing Manager,9,140000,USA,Asian,0
+30,Male,2,Financial Manager,7,120000,Australia,Australian,0
+25,Female,1,Marketing Manager,2,55000,Canada,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,China,Korean,1
+29,Female,2,Content Marketing Manager,4,80000,UK,Welsh,0
+34,Male,3,Director of Marketing,12,170000,USA,Hispanic,0
+31,Male,1,Sales Director,9,140000,USA,African American,0
+24,Female,0,Sales Associate,1,30000,USA,White,0
+29,Male,1,Digital Marketing Manager,6,95000,USA,African American,0
+27,Female,2,Content Marketing Manager,4,80000,UK,White,0
+33,Male,3,Sales Director,10,155000,UK,Mixed,0
+21,Female,0,Sales Representative,0,25000,Australia,White,0
+36,Male,1,Sales Manager,11,160000,Australia,Asian,0
+25,Female,1,Marketing Manager,3,65000,UK,Asian,0
+30,Male,2,Financial Manager,7,120000,Canada,Asian,0
+28,Female,3,Director of Marketing,6,105000,China,White,0
+26,Male,1,Product Marketing Manager,5,85000,China,White,1
+28,Female,2,Marketing Manager,7,110000,UK,White,0
+34,Male,3,Director of Marketing,12,170000,Canada,Asian,0
+31,Male,1,Sales Director,9,140000,USA,African American,0
+24,Female,0,Sales Associate,1,30000,USA,African American,0
+29,Male,1,Digital Marketing Manager,6,95000,USA,Hispanic,0
+27,Female,2,Content Marketing Manager,4,80000,Canada,Asian,0
+33,Male,3,Sales Director,10,155000,Canada,White,0
+21,Female,0,Sales Representative,0,25000,UK,White,0
+36,Male,1,Sales Manager,11,160000,UK,Asian,0
+25,Female,1,Marketing Manager,3,65000,China,Korean,0
+30,Male,2,Financial Manager,7,120000,Australia,Asian,0
+28,Female,3,Director of Marketing,6,105000,Australia,Australian,0
+26,Male,1,Product Marketing Manager,5,85000,USA,African American,1
+28,Female,2,Marketing Manager,7,110000,Australia,Australian,0
+34,Male,3,Director of Marketing,12,170000,China,Chinese,0
+31,Male,1,Sales Director,9,140000,USA,Asian,0
+24,Female,0,Sales Associate,1,30000,Canada,Black,0
+29,Male,1,Digital Marketing Manager,6,95000,Australia,Asian,0
+27,Female,2,Content Marketing Manager,4,80000,USA,White,0
+33,Male,3,Sales Director,10,155000,Canada,White,0
+21,Female,0,Sales Representative,0,25000,Australia,White,0
+36,Male,1,Sales Manager,11,160000,Canada,Black,0
+25,Female,1,Marketing Manager,3,65000,USA,Asian,0
+30,Male,2,Financial Manager,7,120000,China,White,0
+28,Female,3,Director of Marketing,6,105000,China,Korean,0
+26,Male,1,Product Marketing Manager,5,85000,Canada,White,1
+28,Female,2,Marketing Manager,7,110000,USA,Asian,0
+34,Male,3,Director of Marketing,12,170000,UK,Mixed,0
+31,Male,1,Sales Director,9,140000,Australia,White,0
+24,Female,0,Sales Associate,1,30000,China,Korean,0
+29,Male,1,Digital Marketing Manager,6,95000,USA,Hispanic,0
+27,Female,2,Content Marketing Manager,4,80000,Canada,Asian,0
+33,Male,3,Sales Director,10,155000,USA,African American,0
+21,Female,0,Sales Representative,0,25000,Australia,Australian,0
+36,Male,1,Sales Manager,11,160000,Canada,White,0
+25,Female,1,Marketing Manager,3,65000,USA,White,0
+30,Male,2,Financial Manager,7,120000,UK,Mixed,0
+28,Female,3,Director of Marketing,6,105000,USA,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,Australia,White,1
+28,Female,2,Marketing Manager,7,110000,Canada,Asian,0
+34,Male,3,Director of Marketing,12,170000,China,Korean,0
+31,Male,1,Sales Director,9,140000,Australia,White,0
+24,Female,0,Sales Associate,1,30000,China,Korean,0
+29,Male,1,Digital Marketing Manager,6,95000,China,White,0
+27,Female,2,Content Marketing Manager,4,80000,UK,Mixed,0
+33,Male,3,Sales Director,10,155000,Canada,White,0
+21,Female,0,Sales Representative,0,25000,China,Korean,0
+36,Male,1,Sales Manager,11,160000,USA,African American,0
+25,Female,1,Marketing Manager,3,65000,China,White,0
+30,Male,2,Financial Manager,7,120000,China,White,0
+28,Female,3,Director of Marketing,6,105000,Australia,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,USA,Hispanic,1
+28,Female,2,Marketing Manager,7,110000,USA,White,0
+34,Male,3,Director of Marketing,12,170000,Canada,Asian,0
+31,Male,1,Sales Director,9,140000,UK,Asian,0
+24,Female,0,Sales Associate,1,30000,China,Chinese,0
+29,Male,1,Digital Marketing Manager,6,95000,USA,African American,0
+27,Female,2,Content Marketing Manager,4,80000,USA,Asian,0
+33,Male,3,Sales Director,10,155000,China,White,0
+21,Female,0,Sales Representative,0,25000,USA,African American,0
+36,Male,1,Sales Manager,11,160000,USA,Asian,0
+25,Female,1,Marketing Manager,3,65000,Canada,Black,0
+30,Male,2,Financial Manager,7,120000,USA,White,0
+28,Female,3,Director of Marketing,6,105000,Canada,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,UK,Welsh,1
+28,Female,2,Marketing Manager,7,110000,China,Chinese,0
+34,Male,3,Director of Marketing,12,170000,USA,Asian,0
+31,Male,1,Sales Director,9,140000,China,Chinese,0
+24,Female,0,Sales Associate,1,30000,Canada,Asian,0
+29,Male,1,Digital Marketing Manager,6,95000,China,Korean,0
+27,Female,2,Content Marketing Manager,4,80000,Canada,Asian,0
+33,Male,3,Sales Director,10,155000,China,Chinese,0
+21,Female,0,Sales Representative,0,25000,Australia,Asian,0
+36,Male,1,Sales Manager,11,160000,Canada,Asian,0
+25,Female,1,Marketing Manager,3,65000,Australia,Asian,0
+30,Male,2,Financial Manager,7,120000,USA,White,0
+28,Female,3,Director of Marketing,6,105000,Australia,Asian,0
+26,Male,1,Product Marketing Manager,5,85000,USA,Hispanic,1
+28,Female,2,Marketing Manager,7,110000,China,Korean,0
+34,Male,3,Director of Marketing,12,170000,Canada,Black,0
+31,Male,1,Sales Director,9,140000,China,Korean,0
+24,Female,0,Sales Associate,1,30000,UK,Mixed,0
+29,Male,1,Digital Marketing Manager,6,95000,Australia,Asian,0
+27,Female,2,Content Marketing Manager,4,80000,Australia,Asian,0
+33,Male,3,Sales Director,10,155000,Australia,White,0
+21,Female,0,Sales Representative,0,25000,Australia,Australian,0
+36,Male,1,Sales Manager,11,160000,Canada,Black,0
+25,Female,1,Marketing Manager,3,65000,UK,Welsh,0
+30,Male,2,Financial Manager,7,120000,China,Korean,0
+28,Female,3,Director of Marketing,6,105000,USA,Hispanic,0
+26,Male,1,Product Marketing Manager,5,85000,USA,African American,1
+28,Female,2,Marketing Manager,7,110000,UK,Mixed,0
+34,Male,3,Director of Marketing,12,170000,Australia,Asian,0
+31,Male,1,Sales Director,9,140000,China,Chinese,0
+24,Female,0,Sales Associate,1,30000,Australia,White,0
+29,Male,1,Digital Marketing Manager,6,95000,Australia,Australian,0
+27,Female,2,Content Marketing Manager,4,80000,Australia,White,0
+33,Male,3,Sales Director,10,155000,USA,African American,0
+21,Female,0,Sales Representative,0,25000,China,Chinese,0
+36,Male,1,Sales Manager,11,160000,USA,Asian,0
+23,Male,1,Software Engineer,1,60000,China,White,0
+39,Female,2,Marketing Manager,12,150000,Canada,Asian,0
+28,Male,1,Financial Analyst,4,80000,Canada,White,0
+31,Female,3,Research Scientist,8,120000,Canada,White,0
+35,Male,1,Project Manager,10,130000,Canada,Black,0
+27,Female,1,Graphic Designer,2,50000,USA,Hispanic,0
+42,Male,2,Software Engineer,18,180000,China,Korean,1
+29,Female,1,Digital Marketing Specialist,3,60000,Canada,Asian,0
+33,Male,1,Marketing Manager,7,110000,Australia,Asian,0
+24,Female,0,Sales Associate,0,25000,UK,White,0
+30,Male,2,Financial Analyst,6,100000,UK,White,0
+26,Female,1,Social Media Manager,3,55000,USA,African American,0
+32,Male,3,Data Scientist,9,140000,UK,Asian,0
+22,Female,0,Receptionist,0,25000,UK,Asian,0
+37,Male,1,Product Manager,12,150000,UK,Welsh,0
+38,Female,2,Marketing Director,14,170000,Australia,White,0
+25,Male,1,Software Engineer,1,55000,Australia,Asian,0
+29,Female,1,Marketing Coordinator,4,65000,China,Korean,0
+27,Male,1,Product Designer,3,60000,USA,African American,0
+34,Female,3,Research Director,10,150000,Australia,Asian,0
+26,Male,1,Marketing Analyst,2,50000,Australia,White,0
+31,Female,2,Financial Manager,7,120000,UK,Mixed,0
+25,Male,1,Software Engineer,1,55000,China,White,0
+29,Female,1,Marketing Coordinator,4,65000,China,Chinese,0
+27,Male,1,Product Designer,3,60000,Canada,Black,0
+34,Female,3,Research Director,10,150000,USA,Asian,0
+26,Male,1,Marketing Analyst,2,50000,China,White,0
+31,Female,2,Financial Manager,7,120000,Australia,Australian,0
+23,Male,1,Software Engineer,1,60000,Australia,Asian,0
+39,Female,2,Marketing Manager,12,150000,Australia,Australian,0
+28,Male,1,Financial Analyst,4,80000,China,White,0
+31,Female,3,Research Scientist,8,120000,Canada,Black,0
+35,Male,1,Project Manager,10,130000,UK,Asian,0
+27,Female,1,Graphic Designer,2,50000,UK,Asian,0
+42,Male,2,Software Engineer,18,180000,UK,Asian,1
+29,Female,1,Digital Marketing Specialist,3,60000,USA,Hispanic,0
+33,Male,1,Marketing Manager,7,110000,Canada,Asian,0
+24,Female,0,Sales Associate,0,25000,Canada,Black,0
+30,Male,2,Financial Analyst,6,100000,China,White,0
+26,Female,1,Social Media Manager,3,55000,USA,African American,0
+32,Male,3,Data Scientist,9,140000,USA,Asian,0
+22,Female,0,Receptionist,0,25000,UK,White,0
+37,Male,1,Product Manager,12,150000,Canada,Asian,0
+38,Female,2,Marketing Director,14,170000,Canada,Black,0
+25,Male,1,Software Engineer,1,55000,UK,Mixed,0
+29,Female,1,Marketing Coordinator,4,65000,Canada,Black,0
+27,Male,1,Product Designer,3,60000,China,Korean,0
+34,Female,3,Research Director,10,150000,China,White,0
+26,Male,1,Marketing Analyst,2,50000,Australia,Australian,0
+31,Female,2,Financial Manager,7,120000,Canada,Asian,0
+25,Male,1,Software Engineer,1,55000,Australia,Australian,0
+29,Female,1,Marketing Coordinator,4,65000,Australia,White,0
+27,Male,1,Product Designer,3,60000,USA,African American,0
+34,Female,3,Research Director,10,150000,USA,Asian,0
+26,Male,1,Marketing Analyst,2,50000,UK,White,0
+31,Female,2,Financial Manager,7,120000,Australia,White,0
+23,Male,1,Software Engineer,1,60000,Australia,Australian,0
+39,Female,2,Marketing Manager,12,150000,China,Chinese,0
+28,Male,1,Financial Analyst,4,80000,China,Korean,0
+31,Female,3,Research Scientist,8,120000,China,White,0
+35,Male,1,Project Manager,10,130000,USA,White,0
+27,Female,1,Graphic Designer,2,50000,China,Korean,0
+42,Male,2,Software Engineer,18,180000,Canada,Asian,1
+29,Female,1,Digital Marketing Specialist,3,60000,Canada,Asian,0
+33,Male,1,Marketing Manager,7,110000,Canada,Black,0
+24,Female,0,Sales Associate,0,25000,USA,Hispanic,0
+30,Male,2,Financial Analyst,6,100000,Canada,Black,0
+26,Female,1,Social Media Manager,3,55000,Australia,Asian,0
+32,Male,3,Data Scientist,9,140000,Canada,White,0
+22,Female,0,Receptionist,0,25000,USA,White,0
+37,Male,1,Product Manager,12,150000,USA,Asian,0
+38,Female,2,Marketing Director,14,170000,Australia,White,0
+25,Male,1,Software Engineer,1,55000,China,Chinese,0
+29,Female,1,Marketing Coordinator,4,65000,Canada,Asian,0
+27,Male,1,Product Designer,3,60000,China,Korean,0
+34,Female,3,Research Director,10,150000,UK,Welsh,0
+26,Male,1,Marketing Analyst,2,50000,UK,Asian,0
+31,Female,2,Financial Manager,7,120000,USA,Asian,0
+25,Male,1,Software Engineer,1,55000,China,Chinese,0
+29,Female,1,Marketing Coordinator,4,65000,China,Korean,0
+27,Male,1,Product Designer,3,60000,UK,Asian,0
+34,Female,3,Research Director,10,150000,China,Korean,0
+26,Male,1,Marketing Analyst,2,50000,UK,Welsh,0
+31,Female,2,Financial Manager,7,120000,Canada,Black,0
+23,Male,1,Software Engineer,1,60000,USA,Hispanic,0
+39,Female,2,Marketing Manager,12,150000,UK,Asian,0
+28,Male,1,Financial Analyst,4,80000,China,Korean,0
+31,Female,3,Research Scientist,8,120000,Australia,Asian,0
+35,Male,1,Project Manager,10,130000,China,White,0
+27,Female,1,Graphic Designer,2,50000,USA,Hispanic,0
+42,Male,2,Software Engineer,18,180000,USA,Asian,1
+29,Female,1,Digital Marketing Specialist,3,60000,UK,Welsh,0
+33,Male,1,Marketing Manager,7,110000,USA,Asian,0
+24,Female,0,Sales Associate,0,25000,Canada,White,0
+30,Male,2,Financial Analyst,6,100000,Australia,Australian,0
+26,Female,1,Social Media Manager,3,55000,Canada,White,0
+32,Male,3,Data Scientist,9,140000,China,Chinese,0
+22,Female,0,Receptionist,0,25000,Canada,Asian,0
+37,Male,1,Product Manager,12,150000,USA,White,0
+38,Female,2,Marketing Director,14,170000,USA,Hispanic,0
+25,Male,1,Software Engineer,1,55000,USA,African American,0
+29,Female,1,Marketing Coordinator,4,65000,UK,Welsh,0
+27,Male,1,Product Designer,3,60000,UK,Welsh,0
+34,Female,3,Research Director,10,150000,UK,Mixed,0
+26,Male,1,Marketing Analyst,2,50000,Canada,Asian,0
+31,Female,2,Financial Manager,7,120000,China,White,0
+25,Male,1,Software Engineer,1,55000,China,Korean,0
+29,Female,1,Marketing Coordinator,4,65000,USA,Hispanic,0
+27,Male,1,Product Designer,3,60000,Australia,Australian,0
+34,Female,3,Research Director,10,150000,USA,Asian,0
+26,Male,1,Marketing Analyst,2,50000,UK,White,0
+31,Female,2,Financial Manager,7,120000,Canada,Black,0
+23,Male,1,Software Engineer,1,60000,China,Chinese,0
+39,Female,2,Marketing Manager,12,150000,USA,Asian,0
+28,Male,1,Financial Analyst,4,80000,Canada,Black,0
+31,Female,3,Research Scientist,8,120000,Canada,Asian,0
+35,Male,1,Project Manager,10,130000,Australia,Australian,0
+27,Female,1,Graphic Designer,2,50000,UK,Asian,0
+42,Male,2,Software Engineer,18,180000,UK,Mixed,1
+29,Female,1,Digital Marketing Specialist,3,60000,Canada,White,0
+33,Male,1,Marketing Manager,7,110000,Australia,Asian,0
+24,Female,0,Sales Associate,0,25000,Canada,Asian,0
+30,Male,2,Financial Analyst,6,100000,Australia,Asian,0
+28,Male,1,Software Engineer,3,85000,Canada,Asian,0
+36,Female,2,Marketing Director,11,160000,China,White,0
+25,Male,1,Financial Analyst,1,55000,USA,Hispanic,0
+29,Female,3,Data Scientist,5,100000,China,Korean,0
+33,Male,1,Project Manager,8,120000,Canada,Asian,0
+27,Female,1,Graphic Designer,2,50000,UK,Welsh,0
+43,Male,2,Software Engineer,19,185000,UK,Welsh,1
+30,Female,1,Digital Marketing Specialist,4,65000,Australia,Australian,0
+34,Male,1,Marketing Manager,9,130000,China,Korean,0
+25,Female,0,Sales Associate,0,25000,Canada,White,0
+31,Male,2,Financial Analyst,6,100000,China,Chinese,0
+27,Female,1,Social Media Manager,3,55000,Canada,Black,0
+33,Male,3,Research Scientist,10,150000,Australia,White,0
+23,Female,0,Receptionist,0,25000,Australia,Australian,0
+38,Male,1,Product Manager,13,160000,Australia,Asian,0
+39,Female,2,Marketing Manager,14,170000,Canada,Black,0
+26,Male,1,Software Engineer,1,55000,Australia,Asian,0
+30,Female,1,Marketing Coordinator,4,65000,Canada,White,0
+28,Male,1,Product Designer,3,60000,UK,White,0
+35,Female,3,Research Director,11,160000,UK,Welsh,0
+27,Male,1,Marketing Analyst,2,50000,UK,White,0
+32,Female,2,Financial Manager,8,120000,UK,Welsh,0
+26,Male,1,Software Engineer,1,55000,China,White,0
+30,Female,1,Marketing Coordinator,4,65000,Canada,Black,0
+28,Male,1,Product Designer,3,60000,USA,African American,0
+35,Female,3,Research Director,11,160000,Canada,Black,0
+27,Male,1,Marketing Analyst,2,50000,China,Chinese,0
+32,Female,2,Financial Manager,8,120000,Australia,Australian,0
+28,Male,1,Software Engineer,3,85000,UK,Welsh,0
+36,Female,2,Marketing Director,11,160000,USA,White,0
+25,Male,1,Financial Analyst,1,55000,Canada,White,0
+29,Female,3,Data Scientist,5,100000,USA,African American,0
+33,Male,1,Project Manager,8,120000,Australia,Asian,0
+27,Female,1,Graphic Designer,2,50000,China,Chinese,0
+43,Male,2,Software Engineer,19,185000,UK,Mixed,1
+30,Female,1,Digital Marketing Specialist,4,65000,China,Chinese,0
+34,Male,1,Marketing Manager,9,130000,UK,Asian,0
+25,Female,0,Sales Associate,0,25000,Australia,Asian,0
+31,Male,2,Financial Analyst,6,100000,Australia,White,0
+27,Female,1,Social Media Manager,3,55000,USA,Hispanic,0
+33,Male,3,Research Scientist,10,150000,China,White,0
+23,Female,0,Receptionist,0,25000,UK,White,0
+38,Male,1,Product Manager,13,160000,Canada,Asian,0
+39,Female,2,Marketing Manager,14,170000,Australia,White,0
+26,Male,1,Software Engineer,1,55000,Canada,Asian,0
+30,Female,1,Marketing Coordinator,4,65000,China,Korean,0
+28,Male,1,Product Designer,3,60000,UK,Welsh,0
+35,Female,3,Research Director,11,160000,UK,Welsh,0
+27,Male,1,Marketing Analyst,2,50000,USA,Hispanic,0
+32,Female,2,Financial Manager,8,120000,Australia,Australian,0
+26,Male,1,Software Engineer,1,55000,China,White,0
+30,Female,1,Marketing Coordinator,4,65000,Canada,White,0
+28,Male,1,Product Designer,3,60000,UK,White,0
+35,Female,3,Research Director,11,160000,China,Chinese,0
+27,Male,1,Marketing Analyst,2,50000,USA,Asian,0
+32,Female,2,Financial Manager,8,120000,UK,Welsh,0
+28,Male,1,Software Engineer,3,85000,Canada,Asian,0
+36,Female,2,Marketing Director,11,160000,Canada,Black,0
+25,Male,1,Financial Analyst,1,55000,USA,African American,0
+29,Female,3,Data Scientist,5,100000,USA,African American,0
+33,Male,1,Project Manager,8,120000,Canada,White,0
+27,Female,1,Graphic Designer,2,50000,Canada,Asian,0
+43,Male,2,Software Engineer,19,185000,China,Chinese,1
+30,Female,1,Digital Marketing Specialist,4,65000,Australia,Australian,0
+34,Male,1,Marketing Manager,9,130000,Canada,Asian,0
+25,Female,0,Sales Associate,0,25000,USA,African American,0
+31,Male,2,Financial Analyst,6,100000,China,Chinese,0
+27,Female,1,Social Media Manager,3,55000,China,Chinese,0
+33,Male,3,Research Scientist,10,150000,Canada,Black,0
+23,Female,0,Receptionist,0,25000,China,White,0
+38,Male,1,Product Manager,13,160000,Australia,Australian,0
+39,Female,2,Marketing Manager,14,170000,USA,Asian,0
+26,Male,1,Software Engineer,1,55000,USA,White,0
+30,Female,1,Marketing Coordinator,4,65000,UK,Welsh,0
+28,Male,1,Product Designer,3,60000,UK,Mixed,0
+35,Female,3,Research Director,11,160000,USA,African American,0
+27,Male,1,Marketing Analyst,2,50000,UK,White,0
+32,Female,2,Financial Manager,8,120000,UK,Mixed,0
+26,Male,1,Software Engineer,1,55000,USA,Hispanic,0
+30,Female,1,Marketing Coordinator,4,65000,Australia,White,0
+28,Male,1,Product Designer,3,60000,UK,White,0
+35,Female,3,Research Director,11,160000,UK,Welsh,0
+27,Male,1,Marketing Analyst,2,50000,Australia,Asian,0
+32,Female,2,Financial Manager,8,120000,USA,White,0
+28,Male,1,Software Engineer,3,85000,USA,Asian,0
+36,Female,2,Marketing Director,11,160000,China,White,0
+25,Male,1,Financial Analyst,1,55000,Canada,Asian,0
+29,Female,3,Data Scientist,5,100000,USA,Hispanic,0
+33,Male,1,Project Manager,8,120000,USA,White,0
+27,Female,1,Graphic Designer,2,50000,USA,Hispanic,0
+43,Male,2,Software Engineer,19,185000,China,White,1
+30,Female,1,Digital Marketing Specialist,4,65000,China,White,0
+34,Male,1,Marketing Manager,9,130000,China,Korean,0
+25,Female,0,Sales Associate,0,25000,Canada,Black,0
+31,Male,2,Financial Analyst,6,100000,Australia,Australian,0
+27,Female,1,Social Media Manager,3,55000,USA,African American,0
+33,Male,3,Research Scientist,10,150000,USA,White,0
+23,Female,0,Receptionist,0,25000,China,Chinese,0
+38,Male,1,Product Manager,13,160000,China,Korean,0
+39,Female,2,Marketing Manager,14,170000,Canada,Black,0
+26,Male,1,Software Engineer,1,55000,UK,Welsh,0
+30,Female,1,Marketing Coordinator,4,65000,USA,Asian,0
+28,Male,1,Product Designer,3,60000,USA,Asian,0
+35,Female,3,Research Director,11,160000,Australia,Asian,0
+27,Male,1,Marketing Analyst,2,50000,Australia,Australian,0
+32,Female,2,Financial Manager,8,120000,Australia,White,0
+26,Male,1,Software Engineer,1,55000,Australia,Australian,0
+30,Female,1,Marketing Coordinator,4,65000,UK,White,0
+28,Male,1,Product Designer,3,60000,Canada,Black,0
+35,Female,3,Research Director,11,160000,Canada,White,0
+27,Male,1,Marketing Analyst,2,50000,Australia,White,0
+32,Female,2,Financial Manager,8,120000,UK,Mixed,0
+28,Male,1,Software Engineer,3,85000,Canada,Asian,0
+36,Female,2,Marketing Director,11,160000,Australia,Australian,0
+25,Male,1,Financial Analyst,1,55000,Australia,Asian,0
+29,Female,3,Data Scientist,5,100000,USA,Asian,0
+33,Male,1,Project Manager,8,120000,UK,Mixed,0
+27,Female,1,Graphic Designer,2,50000,Australia,White,0
+43,Male,2,Software Engineer,19,185000,Canada,Asian,1
+30,Female,1,Digital Marketing Specialist,4,65000,China,Korean,0
+34,Male,1,Marketing Manager,9,130000,Australia,Asian,0
+25,Female,0,Sales Associate,0,25000,USA,Asian,0
+31,Male,2,Financial Analyst,6,100000,UK,Welsh,0
+27,Female,1,Social Media Manager,3,55000,Canada,Black,0
+33,Male,3,Research Scientist,10,150000,China,White,0
+27,Male,1,Software Engineer,3,85000,UK,Asian,0
+35,Female,2,Marketing Director,11,160000,Canada,Asian,0
+24,Male,1,Financial Analyst,1,55000,UK,White,0
+28,Female,3,Data Scientist,5,100000,USA,Asian,0
+32,Male,1,Project Manager,8,120000,USA,African American,0
+26,Female,1,Graphic Designer,2,50000,USA,Hispanic,0
+41,Male,2,Software Engineer,19,185000,China,White,1
+29,Female,1,Digital Marketing Specialist,4,65000,Canada,White,0
+33,Male,1,Marketing Manager,9,130000,USA,African American,0
+24,Female,0,Sales Associate,0,25000,Canada,Black,0
+30,Male,2,Financial Analyst,6,100000,UK,Welsh,0
+26,Female,1,Social Media Manager,3,55000,USA,African American,0
+32,Male,3,Research Scientist,10,150000,Australia,Asian,0
+22,Female,0,Receptionist,0,25000,Canada,Black,0
+37,Male,1,Product Manager,13,160000,UK,Asian,0
+38,Female,2,Marketing Manager,14,170000,Australia,Australian,0
+27,Male,1,Software Engineer,1,55000,UK,Asian,0
+31,Female,1,Marketing Coordinator,4,65000,Australia,Asian,0
+29,Male,1,Product Designer,3,60000,China,Chinese,0
+34,Female,3,Research Director,11,160000,China,Korean,0
+26,Male,1,Marketing Analyst,2,50000,Canada,Asian,0
+31,Female,2,Financial Manager,8,120000,Canada,White,0
+27,Male,1,Software Engineer,1,55000,UK,Asian,0
+31,Female,1,Marketing Coordinator,4,65000,USA,Asian,0
+29,Male,1,Product Designer,3,60000,Australia,Asian,0
+34,Female,3,Research Director,11,160000,Australia,White,0
+26,Male,1,Marketing Analyst,2,50000,China,Chinese,0
+31,Female,2,Financial Manager,8,120000,Canada,Black,0
+27,Male,1,Software Engineer,3,85000,China,White,0
+35,Female,2,Marketing Director,11,160000,China,White,0
+24,Male,1,Financial Analyst,1,55000,USA,White,0
+28,Female,3,Data Scientist,5,100000,UK,Asian,0
+32,Male,1,Project Manager,8,120000,Australia,Asian,0
+26,Female,1,Graphic Designer,2,50000,Australia,Asian,0
+41,Male,2,Software Engineer,19,185000,Australia,White,1
+29,Female,1,Digital Marketing Specialist,4,65000,China,Chinese,0
+33,Male,1,Marketing Manager,9,130000,Canada,Black,0
+24,Female,0,Sales Associate,0,25000,UK,Asian,0
+30,Male,2,Financial Analyst,6,100000,Australia,Asian,0
+26,Female,1,Social Media Manager,3,55000,UK,Asian,0
+32,Male,3,Research Scientist,10,150000,USA,Hispanic,0
+22,Female,0,Receptionist,0,25000,UK,Asian,0
+37,Male,1,Product Manager,13,160000,Canada,Black,0
+38,Female,2,Marketing Manager,14,170000,Canada,Asian,0
+27,Male,1,Software Engineer,1,55000,China,White,0
+31,Female,1,Marketing Coordinator,4,65000,Australia,Australian,0
+29,Male,1,Product Designer,3,60000,UK,Welsh,0
+34,Female,3,Research Director,11,160000,China,White,0
+26,Male,1,Marketing Analyst,2,50000,USA,White,0
+31,Female,2,Financial Manager,8,120000,Australia,Asian,0
+27,Male,1,Software Engineer,1,55000,China,White,0
+31,Female,1,Marketing Coordinator,4,65000,China,Korean,0
+29,Male,1,Product Designer,3,60000,China,Chinese,0
+34,Female,3,Research Director,11,160000,Australia,Asian,0
+26,Male,1,Marketing Analyst,2,50000,UK,Asian,0
+31,Female,2,Financial Manager,8,120000,UK,White,0
+27,Male,1,Software Engineer,3,85000,China,White,0
+35,Female,2,Marketing Director,11,160000,USA,White,0
+24,Male,1,Financial Analyst,1,55000,UK,White,0
+28,Female,3,Data Scientist,5,100000,China,White,0
+32,Male,1,Project Manager,8,120000,China,Chinese,0
+26,Female,1,Graphic Designer,2,50000,Canada,Black,0
+41,Male,2,Software Engineer,19,185000,Canada,Asian,1
+29,Female,1,Digital Marketing Specialist,4,65000,China,Korean,0
+33,Male,1,Marketing Manager,9,130000,UK,Asian,0
+24,Female,0,Sales Associate,0,25000,Canada,Black,0
+30,Male,2,Financial Analyst,6,100000,Australia,White,0
+26,Female,1,Social Media Manager,3,55000,Canada,White,0
+32,Male,3,Research Scientist,10,150000,USA,Hispanic,0
+22,Female,0,Receptionist,0,25000,Canada,Asian,0
+37,Male,1,Product Manager,13,160000,UK,Mixed,0
+38,Female,2,Marketing Manager,14,170000,Australia,Asian,0
+27,Male,1,Software Engineer,1,55000,Canada,Asian,0
+31,Female,1,Marketing Coordinator,4,65000,Canada,Asian,0
+29,Male,1,Product Designer,3,60000,Australia,Australian,0
+34,Female,3,Research Director,11,160000,Canada,White,0
+26,Male,1,Marketing Analyst,2,50000,USA,Hispanic,0
+31,Female,2,Financial Manager,8,120000,Australia,Asian,0
+27,Male,1,Software Engineer,1,55000,Australia,Asian,0
+31,Female,1,Marketing Coordinator,4,65000,UK,Asian,0
+29,Male,1,Product Designer,3,60000,UK,Mixed,0
+34,Female,3,Research Director,11,160000,USA,Hispanic,0
+26,Male,1,Marketing Analyst,2,50000,USA,Asian,0
+31,Female,2,Financial Manager,8,120000,Australia,Australian,0
+27,Male,1,Software Engineer,3,85000,Australia,White,0
+35,Female,2,Marketing Director,11,160000,UK,White,0
+24,Male,1,Financial Analyst,1,55000,UK,Mixed,0
+28,Female,3,Data Scientist,5,100000,UK,White,0
+32,Male,1,Project Manager,8,120000,Australia,White,0
+26,Female,1,Graphic Designer,2,50000,Australia,Australian,0
+41,Male,2,Software Engineer,19,185000,Australia,Asian,1
+29,Female,1,Digital Marketing Specialist,4,65000,Australia,Australian,0
+33,Male,1,Marketing Manager,9,130000,Canada,White,0
+24,Female,0,Sales Associate,0,25000,Canada,Asian,0
+30,Male,2,Financial Analyst,6,100000,China,Korean,0
+26,Female,1,Social Media Manager,3,55000,China,White,0
+32,Male,3,Research Scientist,10,150000,Canada,Black,0
+22,Female,0,Receptionist,0,25000,Australia,Australian,0
+37,Male,1,Product Manager,13,160000,UK,Welsh,0
+38,Female,2,Marketing Manager,14,170000,UK,White,0
+27,Male,1,Software Engineer,1,55000,Australia,Asian,0
+31,Female,1,Marketing Coordinator,4,65000,China,Chinese,0
+29,Male,1,Product Designer,3,60000,USA,Hispanic,0
+34,Female,3,Research Director,11,160000,Australia,Australian,0
+26,Male,1,Marketing Analyst,2,50000,UK,Mixed,0
+31,Female,2,Financial Manager,8,120000,UK,Asian,0
+27,Male,1,Software Engineer,1,55000,USA,African American,0
+31,Female,1,Marketing Coordinator,4,65000,USA,Hispanic,0
+29,Male,1,Product Designer,3,60000,USA,Asian,0
+34,Female,3,Research Director,11,160000,Canada,Black,0
+26,Male,1,Marketing Analyst,2,50000,UK,Asian,0
+31,Female,2,Financial Manager,8,120000,USA,Asian,0
+27,Male,1,Software Engineer,3,85000,China,Chinese,0
+35,Female,2,Marketing Director,11,160000,Canada,Black,0
+24,Male,1,Financial Analyst,1,55000,UK,Mixed,0
+28,Female,3,Data Scientist,5,100000,UK,White,0
+32,Male,1,Project Manager,8,120000,Australia,Asian,0
+26,Female,1,Graphic Designer,2,50000,China,Chinese,0
+41,Male,2,Software Engineer,19,185000,USA,Hispanic,1
+29,Female,1,Digital Marketing Specialist,4,65000,Canada,Black,0
+33,Male,1,Marketing Manager,9,130000,Australia,White,0
+24,Female,0,Sales Associate,0,25000,USA,White,0
+30,Male,2,Financial Analyst,6,100000,USA,White,0
+26,Female,1,Social Media Man,7,100000,USA,African American,0
+31,Male,1,Software Engineer,7,120000,Australia,White,0
+26,Female,1,Graphic Designer,2,50000,USA,White,0
+33,Male,2,Marketing Manager,9,130000,USA,White,0
+29,Female,0,Customer Service Representative,3,35000,UK,Welsh,0
+36,Male,3,Research Scientist,13,160000,UK,White,0
+27,Female,1,Marketing Coordinator,2,50000,China,Korean,0
+31,Male,1,Project Manager,6,100000,USA,White,0
+28,Female,2,Financial Analyst,4,80000,UK,Welsh,0
+25,Male,1,Software Engineer,1,60000,Canada,Asian,0
+30,Female,1,Sales Manager,5,90000,USA,Asian,0
+34,Male,3,Research Director,11,170000,UK,Mixed,0
+28,Female,1,Marketing Analyst,3,60000,Canada,White,0
+32,Male,1,Product Manager,7,120000,Canada,Black,0
+24,Female,0,Receptionist,0,25000,Australia,Australian,0
+37,Male,2,Marketing Director,14,180000,Canada,Black,0
+39,Female,1,Financial Manager,16,200000,Australia,Asian,0
+26,Male,1,Product Designer,2,50000,Australia,Australian,0
+31,Female,3,Data Scientist,8,140000,Australia,White,0
+29,Male,1,Marketing Analyst,4,70000,Australia,White,0
+33,Female,2,Marketing Manager,9,130000,China,White,0
+27,Male,1,Software Engineer,3,80000,China,Korean,0
+36,Female,3,Research Scientist,12,160000,UK,Mixed,0
+25,Male,1,Product Manager,1,55000,USA,Asian,0
+30,Female,1,Marketing Coordinator,5,85000,USA,African American,0
+34,Male,3,Research Director,11,170000,USA,Asian,0
+28,Female,1,Marketing Analyst,3,60000,Canada,Black,0
+32,Male,1,Product Manager,7,120000,China,Korean,0
+24,Female,0,Receptionist,0,25000,Australia,Asian,0
+37,Male,2,Marketing Director,14,180000,Australia,White,0
+39,Female,1,Financial Manager,16,200000,USA,White,0
+26,Male,1,Product Designer,2,50000,USA,Asian,0
+31,Female,3,Data Scientist,8,140000,China,White,0
+29,Male,1,Marketing Analyst,4,70000,China,White,0
+33,Female,2,Marketing Manager,9,130000,Canada,Black,0
+27,Male,1,Software Engineer,3,80000,USA,White,0
+36,Female,3,Research Scientist,12,160000,USA,White,0
+25,Male,1,Product Manager,1,55000,China,Korean,0
+30,Female,1,Marketing Coordinator,5,85000,Canada,Black,0
+34,Male,3,Research Director,11,170000,Canada,Black,0
+28,Female,1,Marketing Analyst,3,60000,UK,Mixed,0
+32,Male,1,Product Manager,7,120000,China,Chinese,0
+24,Female,0,Receptionist,0,25000,Australia,Asian,0
+37,Male,2,Marketing Director,14,180000,China,Chinese,0
+39,Female,1,Financial Manager,16,200000,China,Korean,0
+26,Male,1,Product Designer,2,50000,Australia,Asian,0
+31,Female,3,Data Scientist,8,140000,Canada,Black,0
+29,Male,1,Marketing Analyst,4,70000,UK,White,0
+33,Female,2,Marketing Manager,9,130000,USA,White,0
+27,Male,1,Software Engineer,3,80000,China,White,0
+36,Female,3,Research Scientist,12,160000,China,Korean,0
+25,Male,1,Product Manager,1,55000,China,Chinese,0
+30,Female,1,Marketing Coordinator,5,85000,Canada,White,0
+34,Male,3,Research Director,11,170000,China,White,0
+28,Female,1,Marketing Analyst,3,60000,Australia,Australian,0
+32,Male,1,Product Manager,7,120000,Australia,White,0
+24,Female,0,Receptionist,0,25000,China,Korean,0
+37,Male,2,Marketing Director,14,180000,UK,White,0
+39,Female,1,Financial Manager,16,200000,Australia,White,0
+26,Male,1,Product Designer,2,50000,Australia,White,0
+31,Female,3,Data Scientist,8,140000,UK,Welsh,0
+29,Male,1,Marketing Analyst,4,70000,UK,White,0
+33,Female,2,Marketing Manager,9,130000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,Canada,Asian,0
+36,Female,3,Research Scientist,12,160000,UK,White,0
+25,Male,1,Product Manager,1,55000,China,Chinese,0
+30,Female,1,Marketing Coordinator,5,85000,UK,Asian,0
+34,Male,3,Research Director,11,170000,Canada,White,0
+28,Female,1,Marketing Analyst,3,60000,USA,Asian,0
+32,Male,1,Product Manager,7,120000,Australia,Asian,0
+24,Female,0,Receptionist,0,25000,USA,Asian,0
+37,Male,2,Marketing Director,14,180000,China,Chinese,0
+39,Female,1,Financial Manager,16,200000,Canada,White,0
+26,Male,1,Product Designer,2,50000,Canada,Black,0
+31,Female,3,Data Scientist,8,140000,Australia,White,0
+29,Male,1,Marketing Analyst,4,70000,Canada,White,0
+33,Female,2,Marketing Manager,9,130000,USA,African American,0
+27,Male,1,Software Engineer,3,80000,USA,Hispanic,0
+36,Female,3,Research Scientist,12,160000,China,White,0
+25,Male,1,Product Manager,1,55000,UK,Asian,0
+30,Female,1,Marketing Coordinator,5,85000,China,Chinese,0
+34,Male,3,Research Director,11,170000,UK,White,0
+28,Female,1,Marketing Analyst,3,60000,China,Chinese,0
+32,Male,1,Product Manager,7,120000,Australia,White,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+37,Male,2,Marketing Director,14,180000,Canada,Black,0
+39,Female,1,Financial Manager,16,200000,Canada,White,0
+26,Male,1,Product Designer,2,50000,Australia,Australian,0
+31,Female,3,Data Scientist,8,140000,UK,Mixed,0
+29,Male,1,Marketing Analyst,4,70000,USA,White,0
+33,Female,2,Marketing Manager,9,130000,China,White,0
+27,Male,1,Software Engineer,3,80000,China,Korean,0
+36,Female,3,Research Scientist,12,160000,Canada,White,0
+25,Male,1,Product Manager,1,55000,Canada,White,0
+30,Female,1,Marketing Coordinator,5,85000,China,Korean,0
+34,Male,3,Research Director,11,170000,China,White,0
+28,Female,1,Marketing Analyst,3,60000,Canada,Asian,0
+32,Male,1,Product Manager,7,120000,USA,White,0
+24,Female,0,Receptionist,0,25000,UK,Welsh,0
+37,Male,2,Marketing Director,14,180000,USA,African American,0
+39,Female,1,Financial Manager,16,200000,China,Chinese,0
+26,Male,1,Product Designer,2,50000,UK,White,0
+31,Female,3,Data Scientist,8,140000,China,Korean,0
+29,Male,1,Marketing Analyst,4,70000,China,Korean,0
+33,Female,2,Marketing Manager,9,130000,Canada,Black,0
+27,Male,1,Software Engineer,3,80000,UK,Mixed,0
+36,Female,3,Research Scientist,12,160000,China,Korean,0
+25,Male,1,Product Manager,1,55000,Canada,Black,0
+30,Female,1,Marketing Coordinator,5,85000,Australia,White,0
+34,Male,3,Research Director,11,170000,UK,Welsh,0
+28,Female,1,Marketing Analyst,3,60000,UK,Mixed,0
+32,Male,1,Product Manager,7,120000,Canada,Black,0
+24,Female,0,Receptionist,0,25000,Canada,Asian,0
+37,Male,2,Marketing Director,14,180000,Canada,Black,0
+39,Female,1,Financial Manager,16,200000,China,White,0
+26,Male,1,Product Designer,2,50000,USA,Hispanic,0
+31,Female,3,Data Scientist,8,140000,China,White,0
+29,Male,1,Marketing Analyst,4,70000,USA,Hispanic,0
+33,Female,2,Marketing Manager,9,130000,USA,Hispanic,0
+27,Male,1,Software Engineer,3,80000,USA,Asian,0
+36,Female,3,Research Scientist,12,160000,Australia,Australian,0
+25,Male,1,Product Manager,1,55000,Australia,Asian,0
+30,Female,1,Marketing Coordinator,5,85000,Canada,Asian,0
+34,Male,3,Research Director,11,170000,China,Korean,0
+28,Female,1,Marketing Analyst,3,60000,Canada,Asian,0
+32,Male,1,Product Manager,7,120000,China,Chinese,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+37,Male,2,Marketing Director,14,180000,USA,African American,0
+28,Female,1,Marketing Coordinator,3,60000,UK,Welsh,0
+33,Male,2,Software Engineer,9,120000,Canada,Black,0
+26,Female,1,Graphic Designer,1,45000,Australia,Australian,0
+29,Male,1,Product Manager,5,80000,Australia,White,0
+35,Female,3,Research Scientist,11,150000,UK,White,0
+27,Male,1,Software Engineer,2,65000,Australia,White,0
+31,Female,1,Marketing Manager,7,100000,UK,Mixed,0
+28,Male,2,Financial Analyst,4,90000,Canada,Asian,0
+24,Female,1,Marketing Analyst,0,40000,UK,White,0
+30,Male,1,Project Manager,6,110000,Australia,Australian,0
+34,Female,3,Research Director,12,170000,UK,Asian,0
+27,Male,1,Software Engineer,3,75000,Canada,White,0
+33,Female,2,Marketing Manager,8,120000,USA,Asian,0
+29,Male,1,Marketing Analyst,4,70000,USA,Hispanic,0
+25,Female,0,Customer Service Representative,1,30000,Canada,White,0
+36,Male,3,Research Scientist,13,180000,China,White,0
+39,Female,1,Financial Manager,15,200000,UK,Mixed,0
+26,Male,1,Product Designer,1,50000,USA,White,0
+31,Female,3,Data Scientist,8,140000,USA,Asian,0
+28,Male,1,Marketing Analyst,3,65000,UK,Mixed,0
+32,Female,1,Product Manager,7,110000,Australia,Australian,0
+24,Male,0,Delivery Driver,0,28000,UK,White,0
+37,Male,2,Marketing Director,14,190000,Canada,Black,0
+39,Female,1,Financial Manager,16,210000,UK,Mixed,0
+26,Male,1,Product Designer,2,55000,China,Chinese,0
+31,Female,3,Data Scientist,8,140000,UK,Asian,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Black,0
+33,Female,2,Marketing Manager,9,130000,UK,Asian,0
+27,Male,1,Software Engineer,3,80000,USA,Hispanic,0
+36,Female,3,Research Scientist,12,170000,Australia,Australian,0
+25,Male,1,Product Manager,1,60000,USA,White,0
+30,Female,1,Marketing Coordinator,5,90000,USA,White,0
+34,Male,3,Research Director,11,160000,USA,Hispanic,0
+28,Female,1,Marketing Analyst,3,60000,China,White,0
+32,Male,1,Product Manager,7,120000,Canada,Asian,0
+24,Female,0,Receptionist,0,25000,USA,Hispanic,0
+37,Male,2,Marketing Director,14,190000,China,Korean,0
+39,Female,1,Financial Manager,16,200000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,USA,Hispanic,0
+31,Female,3,Data Scientist,8,140000,UK,Asian,0
+29,Male,1,Marketing Analyst,4,70000,China,Chinese,0
+33,Female,2,Marketing Manager,9,130000,Canada,Black,0
+27,Male,1,Software Engineer,3,80000,Australia,Australian,0
+36,Female,3,Research Scientist,12,170000,China,White,0
+25,Male,1,Product Manager,1,60000,UK,White,0
+30,Female,1,Marketing Coordinator,5,90000,Canada,Black,0
+34,Male,3,Research Director,11,160000,China,Chinese,0
+28,Female,1,Marketing Analyst,3,60000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,China,Korean,0
+24,Female,0,Receptionist,0,25000,Australia,White,0
+37,Male,2,Marketing Director,14,190000,Australia,White,0
+39,Female,1,Financial Manager,16,200000,USA,Asian,0
+26,Male,1,Product Designer,2,55000,Canada,White,0
+31,Female,3,Data Scientist,8,140000,China,Chinese,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,130000,China,White,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,12,170000,UK,Asian,0
+25,Male,1,Product Manager,1,60000,Australia,Australian,0
+30,Female,1,Marketing Coordinator,5,90000,UK,Asian,0
+34,Male,3,Research Director,11,160000,Canada,Black,0
+28,Female,1,Marketing Analyst,3,60000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,UK,Mixed,0
+24,Female,0,Receptionist,0,25000,Canada,Asian,0
+37,Male,2,Marketing Director,14,190000,USA,Asian,0
+39,Female,1,Financial Manager,16,200000,UK,White,0
+26,Male,1,Product Designer,2,55000,China,White,0
+31,Female,3,Data Scientist,8,140000,USA,Hispanic,0
+29,Male,1,Marketing Analyst,4,70000,China,Chinese,0
+33,Female,2,Marketing Manager,9,130000,USA,Asian,0
+27,Male,1,Software Engineer,3,80000,UK,Asian,0
+36,Female,3,Research Scientist,12,170000,USA,African American,0
+25,Male,1,Product Manager,1,60000,USA,Asian,0
+30,Female,1,Marketing Coordinator,5,90000,UK,Welsh,0
+34,Male,3,Research Director,11,160000,Canada,Black,0
+28,Female,1,Marketing Analyst,3,60000,Australia,White,0
+32,Male,1,Product Manager,7,120000,UK,White,0
+24,Female,0,Receptionist,0,25000,USA,African American,0
+37,Male,2,Marketing Director,14,190000,Canada,Asian,0
+39,Female,1,Financial Manager,16,200000,UK,Mixed,0
+26,Male,1,Product Designer,2,55000,Canada,Black,0
+31,Female,3,Data Scientist,8,140000,Canada,Asian,0
+29,Male,1,Marketing Analyst,4,70000,Canada,White,0
+33,Female,2,Marketing Manager,9,130000,UK,Mixed,0
+27,Male,1,Software Engineer,3,80000,UK,Welsh,0
+36,Female,3,Research Scientist,12,170000,Australia,Asian,0
+25,Male,1,Product Manager,1,60000,USA,African American,0
+30,Female,1,Marketing Coordinator,5,90000,Canada,Black,0
+34,Male,3,Research Director,11,160000,Australia,Asian,0
+28,Female,1,Marketing Analyst,3,60000,Australia,White,0
+32,Male,1,Product Manager,7,120000,China,Korean,0
+24,Female,0,Receptionist,0,25000,China,Korean,0
+37,Male,2,Marketing Director,14,190000,China,Korean,0
+39,Female,1,Financial Manager,16,200000,Canada,White,0
+26,Male,1,Product Designer,2,55000,Canada,Black,0
+31,Female,3,Data Scientist,8,140000,UK,White,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Black,0
+33,Female,2,Marketing Manager,9,130000,USA,Hispanic,0
+27,Male,1,Software Engineer,3,80000,Canada,White,0
+36,Female,3,Research Scientist,12,170000,UK,Mixed,0
+25,Male,1,Product Manager,1,60000,Australia,White,0
+30,Female,1,Marketing Coordinator,5,90000,USA,Asian,0
+34,Male,3,Research Director,11,160000,Canada,White,0
+28,Female,1,Marketing Analyst,3,60000,UK,White,0
+32,Male,1,Product Manager,7,120000,USA,African American,0
+24,Female,0,Receptionist,0,25000,UK,Mixed,0
+37,Male,2,Marketing Director,14,190000,UK,Mixed,0
+39,Female,1,Financial Manager,16,200000,UK,Asian,0
+26,Male,1,Product Designer,2,55000,Canada,Black,0
+31,Female,3,Data Scientist,8,140000,UK,Welsh,0
+29,Male,1,Marketing Analyst,4,70000,USA,Asian,0
+33,Female,2,Marketing Manager,9,130000,UK,White,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,12,170000,UK,Welsh,0
+25,Male,1,Product Manager,1,60000,USA,Hispanic,0
+30,Female,1,Marketing Coordinator,5,90000,Australia,Asian,0
+34,Male,3,Research Director,11,160000,USA,Hispanic,0
+28,Female,1,Marketing Analyst,3,60000,USA,White,0
+32,Male,1,Product Manager,7,120000,Australia,Australian,0
+24,Female,0,Receptionist,0,25000,Australia,Asian,0
+37,Male,2,Marketing Director,14,190000,Australia,Australian,0
+39,Female,1,Financial Manager,16,200000,Canada,Asian,0
+26,Male,1,Product Designer,2,55000,Australia,Australian,0
+31,Female,3,Data Scientist,8,140000,USA,Hispanic,0
+29,Male,1,Marketing Analyst,4,70000,China,Chinese,0
+33,Female,2,Marketing Manager,9,130000,Canada,Black,0
+27,Male,1,Software Engineer,3,80000,USA,Asian,0
+29,Male,1,Software Engineer,3,75000,USA,African American,0
+32,Female,2,Marketing Manager,8,120000,UK,Welsh,0
+27,Male,1,Product Manager,2,65000,USA,African American,0
+30,Female,3,Data Scientist,6,100000,USA,Asian,0
+36,Male,1,Financial Analyst,11,150000,China,Chinese,0
+28,Female,1,Marketing Coordinator,3,60000,Australia,Asian,0
+33,Male,2,Software Engineer,9,120000,UK,Mixed,0
+26,Female,1,Graphic Designer,1,45000,China,Chinese,0
+29,Male,1,Product Manager,5,80000,UK,Welsh,0
+35,Female,3,Research Scientist,11,150000,UK,Welsh,0
+27,Male,1,Software Engineer,2,65000,USA,Hispanic,0
+31,Female,1,Marketing Manager,7,100000,China,Korean,0
+28,Male,2,Financial Analyst,4,90000,USA,Hispanic,0
+24,Female,1,Marketing Analyst,0,40000,Australia,Australian,0
+30,Male,1,Project Manager,6,110000,USA,African American,0
+34,Female,3,Research Director,12,170000,USA,Asian,0
+27,Male,1,Software Engineer,3,75000,Australia,Asian,0
+33,Female,2,Marketing Manager,8,120000,UK,Welsh,0
+29,Male,1,Marketing Analyst,4,70000,UK,White,0
+25,Female,0,Customer Service Representative,1,30000,USA,Asian,0
+36,Male,3,Research Scientist,13,180000,Canada,Black,0
+39,Female,1,Financial Manager,15,200000,China,Chinese,0
+26,Male,1,Product Designer,1,50000,USA,White,0
+31,Female,3,Data Scientist,8,140000,USA,White,0
+28,Male,1,Marketing Analyst,3,65000,UK,Welsh,0
+32,Female,1,Product Manager,7,110000,UK,Mixed,0
+24,Male,0,Delivery Driver,0,28000,Australia,White,0
+37,Male,2,Marketing Director,14,190000,USA,White,0
+39,Female,1,Financial Manager,16,210000,UK,Mixed,0
+26,Male,1,Product Designer,2,55000,Canada,White,0
+31,Female,3,Data Scientist,8,140000,Australia,Asian,0
+29,Male,1,Marketing Analyst,4,70000,UK,Asian,0
+33,Female,2,Marketing Manager,9,130000,Australia,Asian,0
+27,Male,1,Software Engineer,3,80000,USA,African American,0
+36,Female,3,Research Scientist,12,170000,USA,Asian,0
+25,Male,1,Product Manager,1,60000,UK,Welsh,0
+30,Female,1,Marketing Coordinator,5,90000,USA,Asian,0
+34,Male,3,Research Director,11,160000,Australia,Asian,0
+28,Female,1,Marketing Analyst,3,60000,Australia,Asian,0
+32,Male,1,Product Manager,7,120000,China,Chinese,0
+24,Female,0,Receptionist,0,25000,Australia,Australian,0
+37,Male,2,Marketing Director,14,190000,Australia,Australian,0
+39,Female,1,Financial Manager,16,200000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,UK,Asian,0
+31,Female,3,Data Scientist,8,140000,UK,White,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,130000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,UK,Asian,0
+36,Female,3,Research Scientist,12,170000,China,Chinese,0
+25,Male,1,Product Manager,1,60000,UK,White,0
+30,Female,1,Marketing Coordinator,5,90000,Canada,Asian,0
+34,Male,3,Research Director,11,160000,Australia,Australian,0
+28,Female,1,Marketing Analyst,3,60000,UK,White,0
+32,Male,1,Product Manager,7,120000,Canada,White,0
+24,Female,0,Receptionist,0,25000,China,Chinese,0
+37,Male,2,Marketing Director,14,190000,Canada,Black,0
+39,Female,1,Financial Manager,16,200000,UK,White,0
+26,Male,1,Product Designer,2,55000,China,Korean,0
+31,Female,3,Data Scientist,8,140000,USA,White,0
+29,Male,1,Marketing Analyst,4,70000,China,Korean,0
+33,Female,2,Marketing Manager,9,130000,UK,White,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,12,170000,China,Korean,0
+25,Male,1,Product Manager,1,60000,UK,Asian,0
+30,Female,1,Marketing Coordinator,5,90000,Australia,White,0
+34,Male,3,Research Director,11,160000,UK,Welsh,0
+28,Female,1,Marketing Analyst,3,60000,Canada,Asian,0
+32,Male,1,Product Manager,7,120000,UK,White,0
+24,Female,0,Receptionist,0,25000,China,Korean,0
+37,Male,2,Marketing Director,14,190000,Australia,Asian,0
+39,Female,1,Financial Manager,16,200000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,China,Korean,0
+31,Female,3,Data Scientist,8,140000,UK,Welsh,0
+29,Male,1,Marketing Analyst,4,70000,UK,Asian,0
+33,Female,2,Marketing Manager,9,130000,USA,African American,0
+27,Male,1,Software Engineer,3,80000,Australia,White,0
+36,Female,3,Research Scientist,12,170000,UK,White,0
+25,Male,1,Product Manager,1,60000,China,Chinese,0
+30,Female,1,Marketing Coordinator,5,90000,USA,African American,0
+34,Male,3,Research Director,11,160000,UK,Mixed,0
+28,Female,1,Marketing Analyst,3,60000,USA,Asian,0
+32,Male,1,Product Manager,7,120000,USA,Hispanic,0
+24,Female,0,Receptionist,0,25000,UK,Welsh,0
+37,Male,2,Marketing Director,14,190000,China,White,0
+39,Female,1,Financial Manager,16,200000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,Canada,Asian,0
+31,Female,3,Data Scientist,8,140000,UK,White,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,130000,China,White,0
+27,Male,1,Software Engineer,3,80000,China,Chinese,0
+36,Female,3,Research Scientist,12,170000,UK,White,0
+25,Male,1,Product Manager,1,60000,USA,African American,0
+30,Female,1,Marketing Coordinator,5,90000,USA,Hispanic,0
+34,Male,3,Research Director,11,160000,Canada,Asian,0
+28,Female,1,Marketing Analyst,3,60000,China,Chinese,0
+32,Male,1,Product Manager,7,120000,USA,Asian,0
+24,Female,0,Receptionist,0,25000,UK,Asian,0
+37,Male,2,Marketing Director,14,190000,Australia,Australian,0
+39,Female,1,Financial Manager,16,200000,UK,Welsh,0
+26,Male,1,Product Designer,2,55000,UK,Asian,0
+31,Female,3,Data Scientist,8,140000,Canada,Black,0
+29,Male,1,Marketing Analyst,4,70000,USA,African American,0
+33,Female,2,Marketing Manager,9,130000,USA,African American,0
+27,Male,1,Software Engineer,3,80000,Australia,Australian,0
+36,Female,3,Research Scientist,12,170000,China,Korean,0
+25,Male,1,Product Manager,1,60000,Canada,Black,0
+30,Female,1,Marketing Coordinator,5,90000,USA,Hispanic,0
+34,Male,3,Research Director,11,160000,Canada,White,0
+28,Female,1,Marketing Analyst,3,60000,USA,White,0
+32,Male,1,Product Manager,7,120000,USA,White,0
+24,Female,0,Receptionist,0,25000,UK,Mixed,0
+37,Male,2,Marketing Director,14,190000,Australia,Australian,0
+39,Female,1,Financial Manager,16,200000,Canada,Asian,0
+26,Male,1,Product Designer,2,55000,UK,White,0
+31,Female,3,Data Scientist,8,140000,Australia,Australian,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,130000,USA,Asian,0
+27,Male,1,Software Engineer,3,80000,USA,Asian,0
+36,Female,3,Research Scientist,12,170000,Australia,White,0
+25,Male,1,Product Manager,1,60000,Australia,White,0
+30,Female,1,Marketing Coordinator,5,90000,Australia,White,0
+34,Male,3,Research Director,11,160000,USA,Asian,0
+28,Female,1,Marketing Analyst,3,60000,China,Chinese,0
+32,Male,1,Product Manager,7,120000,Canada,Asian,0
+24,Female,0,Receptionist,0,25000,USA,Hispanic,0
+37,Male,2,Marketing Director,14,190000,USA,Hispanic,0
+39,Female,1,Financial Manager,16,200000,UK,Welsh,0
+27,Male,3,Marketing Coordinator,7,120000,Canada,Black,0
+28,Female,1,Marketing Coordinator,3,60000,UK,Asian,0
+33,Male,2,Software Engineer,8,120000,Canada,White,0
+27,Female,1,Product Manager,2,65000,Australia,White,0
+30,Male,3,Data Scientist,6,100000,UK,Asian,0
+36,Female,1,Financial Analyst,11,150000,USA,African American,0
+29,Male,1,Marketing Analyst,3,65000,China,White,0
+32,Female,2,Software Engineer,9,120000,Australia,White,0
+26,Male,1,Graphic Designer,1,45000,Canada,White,0
+29,Female,1,Product Manager,5,80000,USA,Asian,0
+35,Male,3,Research Scientist,11,150000,UK,Welsh,0
+27,Male,1,Software Engineer,2,65000,USA,Asian,0
+31,Female,1,Marketing Manager,7,100000,UK,Asian,0
+28,Male,2,Financial Analyst,4,90000,Canada,Black,0
+24,Female,1,Marketing Analyst,0,40000,China,Korean,0
+30,Male,1,Project Manager,6,110000,Australia,Asian,0
+34,Female,3,Research Director,12,170000,China,Chinese,0
+27,Male,1,Software Engineer,3,75000,Canada,Asian,0
+33,Female,2,Marketing Manager,8,120000,China,Korean,0
+29,Male,1,Marketing Analyst,4,70000,UK,Welsh,0
+25,Female,0,Customer Service Representative,1,30000,UK,Mixed,0
+36,Male,3,Research Scientist,13,180000,Canada,Asian,0
+39,Female,1,Financial Manager,15,200000,Australia,White,0
+26,Male,1,Product Designer,1,50000,Canada,White,0
+31,Female,3,Data Scientist,8,140000,USA,Hispanic,0
+28,Male,1,Marketing Analyst,3,65000,UK,Mixed,0
+32,Female,1,Product Manager,7,110000,UK,Asian,0
+24,Male,0,Delivery Driver,0,28000,Australia,Australian,0
+37,Male,2,Marketing Director,14,190000,China,White,0
+39,Female,1,Financial Manager,16,210000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,China,Chinese,0
+31,Female,3,Data Scientist,8,140000,China,Chinese,0
+29,Male,1,Marketing Analyst,4,70000,Australia,Asian,0
+33,Female,2,Marketing Manager,9,130000,USA,White,0
+27,Male,1,Software Engineer,3,80000,Australia,White,0
+36,Female,3,Research Scientist,12,170000,China,White,0
+25,Male,1,Product Manager,1,60000,USA,Hispanic,0
+30,Female,1,Marketing Coordinator,5,90000,Australia,Asian,0
+34,Male,3,Research Director,11,160000,China,White,0
+28,Female,1,Marketing Analyst,3,60000,Australia,Asian,0
+32,Male,1,Product Manager,7,120000,Australia,White,0
+24,Female,0,Receptionist,0,25000,China,Chinese,0
+37,Male,2,Marketing Director,14,190000,USA,Hispanic,0
+39,Female,1,Financial Manager,16,200000,UK,Welsh,0
+26,Male,1,Product Designer,2,55000,UK,Mixed,0
+31,Female,3,Data Scientist,8,140000,USA,African American,0
+29,Male,1,Marketing Analyst,4,70000,Australia,Australian,0
+33,Female,2,Marketing Manager,9,130000,UK,Asian,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,12,170000,Canada,Black,0
+25,Male,1,Product Manager,1,60000,China,Korean,0
+30,Female,1,Marketing Coordinator,5,90000,China,Korean,0
+34,Male,3,Research Director,11,160000,Australia,Asian,0
+28,Female,1,Marketing Analyst,3,60000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,Canada,White,0
+24,Female,0,Receptionist,0,25000,USA,African American,0
+37,Male,2,Marketing Director,14,190000,UK,White,0
+39,Female,1,Financial Manager,16,200000,China,Korean,0
+26,Male,1,Product Designer,2,55000,USA,African American,0
+31,Female,3,Data Scientist,8,140000,USA,White,0
+29,Male,1,Marketing Analyst,4,70000,Australia,Asian,0
+33,Female,2,Marketing Manager,9,130000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,China,Chinese,0
+36,Female,3,Research Scientist,12,170000,Canada,Black,0
+25,Male,1,Product Manager,1,60000,Canada,Black,0
+30,Female,1,Marketing Coordinator,5,90000,Canada,Black,0
+34,Male,3,Research Director,11,160000,China,Chinese,0
+28,Female,1,Marketing Analyst,3,60000,China,Korean,0
+32,Male,1,Product Manager,7,120000,Canada,White,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+37,Male,2,Marketing Director,14,190000,Australia,Australian,0
+39,Female,1,Financial Manager,16,200000,UK,Mixed,0
+26,Male,1,Product Designer,2,55000,UK,Mixed,0
+31,Female,3,Data Scientist,8,140000,UK,Mixed,0
+29,Male,1,Marketing Analyst,4,70000,Australia,White,0
+33,Female,2,Marketing Manager,9,130000,Australia,White,0
+27,Male,1,Software Engineer,3,80000,USA,Asian,0
+36,Female,3,Research Scientist,12,170000,USA,African American,0
+25,Male,1,Product Manager,1,60000,Canada,Asian,0
+30,Female,1,Marketing Coordinator,5,90000,Canada,Black,0
+34,Male,3,Research Director,11,160000,Canada,Asian,0
+28,Female,1,Marketing Analyst,3,60000,Australia,Australian,0
+32,Male,1,Product Manager,7,120000,UK,Mixed,0
+24,Female,0,Receptionist,0,25000,USA,White,0
+37,Male,2,Marketing Director,14,190000,Australia,White,0
+39,Female,1,Financial Manager,16,200000,USA,White,0
+26,Male,1,Product Designer,2,55000,USA,White,0
+31,Female,3,Data Scientist,8,140000,Australia,Asian,0
+29,Male,1,Marketing Analyst,4,70000,UK,Mixed,0
+33,Female,2,Marketing Manager,9,130000,Australia,Asian,0
+27,Male,1,Software Engineer,3,80000,UK,Asian,0
+36,Female,3,Research Scientist,12,170000,Canada,White,0
+25,Male,1,Product Manager,1,60000,Canada,Black,0
+30,Female,1,Marketing Coordinator,5,90000,China,White,0
+34,Male,3,Research Director,11,160000,USA,White,0
+28,Female,1,Marketing Analyst,3,60000,Australia,Australian,0
+32,Male,1,Product Manager,7,120000,China,Chinese,0
+24,Female,0,Receptionist,0,25000,China,Chinese,0
+37,Male,2,Marketing Director,14,190000,China,White,0
+39,Female,1,Financial Manager,16,200000,UK,White,0
+26,Male,1,Product Designer,2,55000,China,White,0
+31,Female,3,Data Scientist,8,140000,UK,Asian,0
+29,Male,1,Marketing Analyst,4,70000,Canada,White,0
+33,Female,2,Marketing Manager,9,130000,China,White,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,12,170000,Canada,Asian,0
+25,Male,1,Product Manager,1,60000,USA,African American,0
+30,Female,1,Marketing Coordinator,5,90000,UK,Asian,0
+34,Male,3,Research Director,11,160000,Canada,White,0
+28,Female,1,Marketing Analyst,3,60000,Canada,Asian,0
+32,Male,1,Product Manager,7,120000,Canada,Asian,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+37,Male,2,Marketing Director,14,190000,Canada,Asian,0
+39,Female,1,Financial Manager,16,200000,Australia,Australian,0
+26,Male,1,Product Designer,2,55000,Canada,Asian,0
+31,Female,3,Data Scientist,8,140000,Australia,White,0
+29,Male,1,Marketing Analyst,4,70000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,130000,UK,Welsh,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,12,170000,Canada,Black,0
+25,Male,1,Product Manager,1,60000,USA,African American,0
+30,Female,1,Marketing Coordinator,5,90000,Australia,Asian,0
+34,Male,3,Research Director,11,160000,UK,Asian,0
+28,Female,1,Marketing Analyst,3,60000,China,Chinese,0
+32,Male,1,Product Manager,7,120000,Australia,Australian,0
+24,Female,0,Receptionist,0,25000,USA,Hispanic,0
+37,Male,2,Marketing Director,14,190000,China,Korean,0
+39,Female,1,Financial Manager,16,200000,UK,Asian,0
+29,Female,1,Marketing Coordinator,4,65000,UK,Asian,0
+34,Male,2,Software Engineer,9,125000,USA,African American,0
+28,Female,1,Product Manager,3,70000,Canada,Asian,0
+31,Male,3,Data Scientist,7,110000,Canada,White,0
+37,Female,1,Financial Analyst,12,160000,UK,Asian,0
+30,Male,1,Marketing Analyst,4,75000,China,White,0
+33,Female,2,Software Engineer,8,120000,UK,Mixed,0
+27,Male,1,Graphic Designer,2,50000,Australia,Australian,0
+30,Female,1,Product Manager,5,85000,USA,White,0
+36,Male,3,Research Scientist,11,155000,Canada,White,0
+28,Male,1,Software Engineer,3,70000,UK,White,0
+32,Female,1,Marketing Manager,8,115000,UK,White,0
+29,Male,2,Financial Analyst,5,95000,USA,African American,0
+25,Female,1,Marketing Analyst,0,40000,Canada,Asian,0
+31,Male,1,Project Manager,6,115000,Australia,Australian,0
+35,Female,3,Research Director,12,175000,Canada,Black,0
+28,Male,1,Software Engineer,3,70000,Canada,White,0
+33,Female,2,Marketing Manager,9,135000,Australia,Australian,0
+29,Male,1,Marketing Analyst,4,75000,Canada,Black,0
+25,Female,0,Customer Service Representative,1,30000,UK,Mixed,0
+36,Male,3,Research Scientist,13,185000,UK,Mixed,0
+40,Female,1,Financial Manager,15,210000,Australia,Australian,0
+27,Male,1,Product Designer,1,45000,China,White,0
+32,Female,3,Data Scientist,9,145000,USA,Hispanic,0
+28,Male,1,Marketing Analyst,3,70000,UK,Welsh,0
+32,Female,1,Product Manager,7,120000,China,Chinese,0
+24,Male,0,Delivery Driver,0,28000,Canada,Asian,0
+38,Male,2,Marketing Director,14,195000,USA,White,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+27,Male,1,Product Designer,2,55000,Australia,Asian,0
+32,Female,3,Data Scientist,9,145000,China,White,0
+29,Male,1,Marketing Analyst,4,75000,UK,White,0
+33,Female,2,Marketing Manager,9,135000,China,Chinese,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,13,185000,Australia,Asian,0
+25,Male,1,Product Manager,1,60000,China,Chinese,0
+30,Female,1,Marketing Coordinator,5,95000,China,Korean,0
+34,Male,3,Research Director,12,170000,Canada,Black,0
+28,Female,1,Marketing Analyst,3,65000,China,White,0
+32,Male,1,Product Manager,7,120000,Canada,White,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+38,Male,2,Marketing Director,14,195000,Canada,Black,0
+40,Female,1,Financial Manager,16,215000,China,Korean,0
+27,Male,1,Product Designer,2,55000,China,White,0
+32,Female,3,Data Scientist,9,145000,UK,White,0
+29,Male,1,Marketing Analyst,4,75000,USA,African American,0
+33,Female,2,Marketing Manager,9,135000,USA,Asian,0
+27,Male,1,Software Engineer,3,80000,Canada,White,0
+36,Female,3,Research Scientist,13,185000,Australia,White,0
+25,Male,1,Product Manager,1,60000,Australia,Asian,0
+30,Female,1,Marketing Coordinator,5,95000,USA,Asian,0
+34,Male,3,Research Director,12,170000,UK,Welsh,0
+28,Female,1,Marketing Analyst,3,65000,USA,Asian,0
+32,Male,1,Product Manager,7,120000,Canada,Black,0
+24,Female,0,Receptionist,0,25000,UK,Welsh,0
+38,Male,2,Marketing Director,14,195000,China,Chinese,0
+40,Female,1,Financial Manager,16,215000,Australia,White,0
+27,Male,1,Product Designer,2,55000,UK,White,0
+32,Female,3,Data Scientist,9,145000,USA,Asian,0
+29,Male,1,Marketing Analyst,4,75000,USA,Hispanic,0
+33,Female,2,Marketing Manager,9,135000,Australia,White,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,13,185000,USA,African American,0
+25,Male,1,Product Manager,1,60000,UK,White,0
+30,Female,1,Marketing Coordinator,5,95000,Australia,Australian,0
+34,Male,3,Research Director,12,170000,Canada,Asian,0
+28,Female,1,Marketing Analyst,3,65000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,USA,Hispanic,0
+24,Female,0,Receptionist,0,25000,USA,Hispanic,0
+38,Male,2,Marketing Director,14,195000,Australia,Australian,0
+40,Female,1,Financial Manager,16,215000,Australia,Australian,0
+27,Male,1,Product Designer,2,55000,Canada,Black,0
+32,Female,3,Data Scientist,9,145000,Canada,Asian,0
+29,Male,1,Marketing Analyst,4,75000,China,Chinese,0
+33,Female,2,Marketing Manager,9,135000,China,White,0
+27,Male,1,Software Engineer,3,80000,USA,African American,0
+36,Female,3,Research Scientist,13,185000,Australia,Asian,0
+25,Male,1,Product Manager,1,60000,China,Korean,0
+30,Female,1,Marketing Coordinator,5,95000,UK,White,0
+34,Male,3,Research Director,12,170000,Australia,White,0
+28,Female,1,Marketing Analyst,3,65000,UK,White,0
+32,Male,1,Product Manager,7,120000,China,Chinese,0
+24,Female,0,Receptionist,0,25000,Canada,White,0
+38,Male,2,Marketing Director,14,195000,UK,Asian,0
+40,Female,1,Financial Manager,16,215000,China,Chinese,0
+27,Male,1,Product Designer,2,55000,USA,African American,0
+32,Female,3,Data Scientist,9,145000,Australia,White,0
+29,Male,1,Marketing Analyst,4,75000,UK,White,0
+33,Female,2,Marketing Manager,9,135000,Australia,Asian,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,13,185000,China,Chinese,0
+25,Male,1,Product Manager,1,60000,China,Chinese,0
+30,Female,1,Marketing Coordinator,5,95000,USA,Asian,0
+34,Male,3,Research Director,12,170000,China,Korean,0
+28,Female,1,Marketing Analyst,3,65000,USA,African American,0
+32,Male,1,Product Manager,7,120000,China,Korean,0
+24,Female,0,Receptionist,0,25000,Australia,White,0
+38,Male,2,Marketing Director,14,195000,USA,Asian,0
+40,Female,1,Financial Manager,16,215000,UK,White,0
+27,Male,1,Product Designer,2,55000,USA,African American,0
+32,Female,3,Data Scientist,9,145000,Canada,White,0
+29,Male,1,Marketing Analyst,4,75000,USA,Hispanic,0
+33,Female,2,Marketing Manager,9,135000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,UK,Welsh,0
+36,Female,3,Research Scientist,13,185000,Australia,Australian,0
+25,Male,1,Product Manager,1,60000,UK,Welsh,0
+30,Female,1,Marketing Coordinator,5,95000,USA,White,0
+34,Male,3,Research Director,12,170000,USA,Asian,0
+28,Female,1,Marketing Analyst,3,65000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,UK,Mixed,0
+24,Female,0,Receptionist,0,25000,USA,Asian,0
+38,Male,2,Marketing Director,14,195000,USA,White,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+27,Male,1,Product Designer,2,55000,USA,Hispanic,0
+32,Female,3,Data Scientist,9,145000,China,White,0
+29,Male,1,Marketing Analyst,4,75000,UK,Mixed,0
+33,Female,2,Marketing Manager,9,135000,UK,White,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,13,185000,Canada,White,0
+25,Male,1,Product Manager,1,60000,Canada,Asian,0
+30,Female,1,Marketing Coordinator,5,95000,China,White,0
+34,Male,3,Research Director,12,170000,Australia,Asian,0
+28,Female,1,Marketing Analyst,3,65000,China,White,0
+32,Male,1,Product Manager,7,120000,Australia,Asian,0
+24,Female,0,Receptionist,0,25000,China,Chinese,0
+38,Male,2,Marketing Director,14,195000,China,Chinese,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+26,Female,2,Software Engineer,2,75000,China,Korean,0
+39,Male,3,Research Scientist,14,185000,UK,White,0
+32,Female,1,Marketing Manager,7,120000,Canada,White,0
+28,Male,1,Graphic Designer,3,60000,Canada,Asian,0
+35,Female,2,Data Scientist,10,145000,UK,Asian,0
+29,Male,1,Marketing Analyst,4,75000,China,Chinese,0
+33,Female,2,Product Manager,8,135000,USA,Hispanic,0
+27,Male,1,Software Engineer,2,70000,Australia,Australian,0
+36,Female,3,Research Director,12,175000,China,Korean,0
+24,Male,0,Delivery Driver,0,28000,Australia,White,0
+38,Male,2,Marketing Director,14,195000,Canada,Asian,0
+40,Female,1,Financial Manager,16,215000,Canada,Black,0
+27,Male,1,Product Designer,2,55000,China,Korean,0
+32,Female,3,Data Scientist,9,145000,Canada,Black,0
+29,Male,1,Marketing Analyst,4,75000,USA,White,0
+33,Female,2,Marketing Manager,9,135000,Australia,Australian,0
+27,Male,1,Software Engineer,3,80000,China,Chinese,0
+36,Female,3,Research Scientist,13,185000,UK,Asian,0
+25,Male,1,Product Manager,1,60000,China,Korean,0
+30,Female,1,Marketing Coordinator,5,95000,UK,Welsh,0
+34,Male,3,Research Director,12,170000,UK,Welsh,0
+28,Female,1,Marketing Analyst,3,65000,UK,White,0
+32,Male,1,Product Manager,7,120000,Australia,Asian,0
+24,Female,0,Receptionist,0,25000,USA,White,0
+38,Male,2,Marketing Director,14,195000,UK,White,0
+40,Female,1,Financial Manager,16,215000,USA,Hispanic,0
+27,Male,1,Product Designer,2,55000,UK,Mixed,0
+32,Female,3,Data Scientist,9,145000,Canada,Asian,0
+29,Male,1,Marketing Analyst,4,75000,Australia,Australian,0
+33,Female,2,Marketing Manager,9,135000,Canada,Asian,0
+27,Male,1,Software Engineer,3,80000,Australia,Australian,0
+36,Female,3,Research Scientist,13,185000,China,White,0
+25,Male,1,Product Manager,1,60000,Canada,Asian,0
+30,Female,1,Marketing Coordinator,5,95000,China,Chinese,0
+34,Male,3,Research Director,12,170000,UK,Asian,0
+28,Female,1,Marketing Analyst,3,65000,USA,African American,0
+32,Male,1,Product Manager,7,120000,UK,Mixed,0
+24,Female,0,Receptionist,0,25000,China,Korean,0
+38,Male,2,Marketing Director,14,195000,UK,White,0
+40,Female,1,Financial Manager,16,215000,Australia,White,0
+27,Male,1,Product Designer,2,55000,Canada,Black,0
+32,Female,3,Data Scientist,9,145000,USA,White,0
+29,Male,1,Marketing Analyst,4,75000,China,White,0
+33,Female,2,Marketing Manager,9,135000,Canada,White,0
+27,Male,1,Software Engineer,3,80000,Canada,Black,0
+36,Female,3,Research Scientist,13,185000,Australia,Australian,0
+25,Male,1,Product Manager,1,60000,UK,Asian,0
+30,Female,1,Marketing Coordinator,5,95000,Australia,White,0
+34,Male,3,Research Director,12,170000,Australia,White,0
+28,Female,1,Marketing Analyst,3,65000,Canada,White,0
+32,Male,1,Product Manager,7,120000,USA,Hispanic,0
+24,Female,0,Receptionist,0,25000,Australia,Asian,0
+38,Male,2,Marketing Director,14,195000,Canada,White,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+27,Male,1,Product Designer,2,55000,Canada,White,0
+32,Female,3,Data Scientist,9,145000,UK,White,0
+29,Male,1,Marketing Analyst,4,75000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,135000,UK,Welsh,0
+27,Male,1,Software Engineer,3,80000,USA,Asian,0
+36,Female,3,Research Scientist,13,185000,USA,Asian,0
+25,Male,1,Product Manager,1,60000,USA,African American,0
+30,Female,1,Marketing Coordinator,5,95000,China,Chinese,0
+34,Male,3,Research Director,12,170000,China,Korean,0
+28,Female,1,Marketing Analyst,3,65000,UK,Asian,0
+32,Male,1,Product Manager,7,120000,USA,Asian,0
+24,Female,0,Receptionist,0,25000,China,White,0
+38,Male,2,Marketing Director,14,195000,USA,African American,0
+40,Female,1,Financial Manager,16,215000,Canada,White,0
+27,Male,1,Product Designer,2,55000,China,Korean,0
+32,Female,3,Data Scientist,9,145000,China,Korean,0
+29,Male,1,Marketing Analyst,4,75000,Canada,Asian,0
+33,Female,2,Marketing Manager,9,135000,Australia,Australian,0
+27,Male,1,Software Engineer,3,80000,China,Korean,0
+36,Female,3,Research Scientist,13,185000,Australia,Australian,0
+25,Male,1,Product Manager,1,60000,UK,Asian,0
+30,Female,1,Marketing Coordinator,5,95000,USA,Hispanic,0
+34,Male,3,Research Director,12,170000,UK,Mixed,0
+28,Female,1,Marketing Analyst,3,65000,UK,Mixed,0
+32,Male,1,Product Manager,7,120000,Canada,White,0
+24,Female,0,Receptionist,0,25000,Australia,Australian,0
+38,Male,2,Marketing Director,14,195000,China,Chinese,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+27,Male,1,Product Designer,2,55000,China,White,0
+32,Female,3,Data Scientist,9,145000,China,White,0
+29,Male,1,Marketing Analyst,4,75000,UK,Mixed,0
+33,Female,2,Marketing Manager,9,135000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,Australia,White,0
+36,Female,3,Research Scientist,13,185000,Australia,White,0
+25,Male,1,Product Manager,1,60000,UK,Mixed,0
+30,Female,1,Marketing Coordinator,5,95000,China,Korean,0
+34,Male,3,Research Director,12,170000,UK,Asian,0
+28,Female,1,Marketing Analyst,3,65000,UK,Welsh,0
+32,Male,1,Product Manager,7,120000,Canada,Asian,0
+24,Female,0,Receptionist,0,25000,Australia,White,0
+38,Male,2,Marketing Director,14,195000,USA,Asian,0
+40,Female,1,Financial Manager,16,215000,Australia,White,0
+27,Male,1,Product Designer,2,55000,China,Chinese,0
+32,Female,3,Data Scientist,9,145000,UK,Asian,0
+29,Male,1,Marketing Analyst,4,75000,USA,White,0
+33,Female,2,Marketing Manager,9,135000,Canada,Black,0
+27,Male,1,Software Engineer,3,80000,Australia,Asian,0
+36,Female,3,Research Scientist,13,185000,USA,Asian,0
+25,Male,1,Product Manager,1,60000,Canada,Black,0
+30,Female,1,Marketing Coordinator,5,95000,UK,Welsh,0
+34,Male,3,Research Director,12,170000,Australia,Australian,0
+28,Female,1,Marketing Analyst,3,65000,USA,Hispanic,0
+32,Male,1,Product Manager,7,120000,Australia,Asian,0
+24,Female,0,Receptionist,0,25000,UK,Welsh,0
+38,Male,2,Marketing Director,14,195000,Canada,Asian,0
+40,Female,1,Financial Manager,16,215000,Canada,White,0
+27,Male,1,Product Designer,2,55000,China,Korean,0
+32,Female,3,Data Scientist,9,145000,USA,Asian,0
+29,Male,1,Marketing Analyst,4,75000,UK,Welsh,0
+33,Female,2,Marketing Manager,9,135000,China,Korean,0
+27,Male,1,Software Engineer,3,80000,UK,Mixed,0
+36,Female,3,Research Scientist,13,185000,China,Korean,0
+25,Male,1,Product Manager,1,60000,Australia,White,0
+30,Female,1,Marketing Coordinator,5,95000,UK,White,0
+34,Male,3,Research Director,12,170000,Canada,White,0
+28,Female,1,Marketing Analyst,3,65000,Australia,White,0
+32,Male,1,Product Manager,7,120000,Australia,Australian,0
+24,Female,0,Receptionist,0,25000,Australia,Asian,0
+38,Male,2,Marketing Director,14,195000,USA,Asian,0
+40,Female,1,Financial Manager,16,215000,China,White,0
+27,Male,1,Product Designer,2,55000,China,Chinese,0
+32,Female,3,Data Scientist,9,145000,Australia,White,0
+29,Male,1,Marketing Analyst,4,75000,China,Chinese,0
+29,Male,1,Sales Associate,2,45000,USA,Hispanic,0
+45,Female,2,Sales Manager,8,80000,Canada,Black,0
+37,Male,3,Marketing Manager,7,90000,UK,Mixed,0
+23,Female,0,Sales Executive,1,35000,China,Korean,0
+41,Male,1,Financial Manager,12,120000,China,Korean,0
+26,Female,1,Digital Marketing Manager,4,60000,Canada,Black,0
+33,Male,2,Content Marketing Manager,5,70000,Canada,Asian,0
+28,Female,0,Sales Representative,3,40000,China,Korean,0
+50,Male,3,Product Marketing Manager,15,150000,UK,Mixed,1
+35,Female,1,Sales Representative,2,35000,USA,Asian,0
+42,Male,2,Director of Marketing,13,130000,Canada,Asian,0
+27,Female,1,Sales Associate,1,35000,Australia,White,0
+48,Male,3,Sales Director,18,180000,USA,Asian,0
+31,Female,0,Financial Manager,4,60000,Australia,Australian,0
+36,Male,1,Sales Manager,6,75000,UK,Mixed,0
+25,Female,2,Digital Marketing Manager,3,50000,UK,Mixed,0
+39,Male,3,Marketing Manager,10,100000,China,Chinese,0
+30,Female,0,Sales Executive,2,40000,Canada,Asian,0
+44,Male,1,Content Marketing Manager,11,110000,USA,White,0
+29,Female,2,Sales Representative,4,55000,China,Korean,0
+47,Male,3,Product Marketing Manager,17,170000,Canada,White,1
+32,Female,1,Sales Representative,3,40000,Australia,Asian,0
+38,Male,2,Director of Marketing,9,95000,Australia,Asian,0
+24,Female,0,Sales Associate,1,35000,China,White,0
+40,Male,3,Sales Director,14,140000,UK,Welsh,0
+34,Female,1,Financial Manager,5,70000,China,White,0
+26,Male,2,Digital Marketing Manager,3,50000,UK,Mixed,0
+31,Female,3,Marketing Manager,6,75000,UK,Mixed,0
+27,Male,0,Sales Executive,2,40000,UK,Welsh,0
+43,Female,1,Content Marketing Manager,12,120000,Australia,White,0
+28,Male,2,Sales Representative,2,40000,USA,Asian,0
+46,Female,3,Product Marketing Manager,16,160000,USA,Hispanic,1
+33,Male,1,Sales Representative,4,55000,USA,White,0
+39,Female,2,Director of Marketing,10,100000,UK,White,0
+25,Male,0,Sales Associate,1,35000,China,White,0
+41,Female,1,Sales Manager,8,80000,China,Chinese,0
+35,Male,3,Marketing Manager,7,90000,UK,White,0
+23,Female,1,Sales Executive,1,35000,UK,Asian,0
+42,Male,2,Financial Manager,13,130000,Canada,Black,0
+26,Female,1,Digital Marketing Manager,4,60000,Canada,Asian,0
+32,Male,2,Content Marketing Manager,5,70000,UK,Welsh,0
+27,Female,0,Sales Representative,3,40000,Canada,White,0
+50,Male,3,Product Marketing Manager,15,150000,Australia,White,1
+36,Female,1,Sales Representative,2,35000,USA,Hispanic,0
+48,Male,2,Director of Marketing,18,180000,China,Korean,0
+31,Female,0,Sales Associate,2,40000,Australia,Asian,0
+29,Male,1,Sales Director,6,75000,Australia,White,0
+45,Female,3,Financial Manager,12,120000,Australia,Australian,0
+25,Male,2,Digital Marketing Manager,3,50000,UK,White,0
+37,Female,1,Marketing Manager,7,90000,Canada,Black,0
+23,Male,0,Sales Executive,1,35000,Canada,Asian,0
+41,Female,1,Content Marketing Manager,11,110000,Australia,Asian,0
+26,Male,2,Sales Representative,3,45000,UK,Welsh,0
+33,Female,3,Product Marketing Manager,5,70000,China,White,1
+28,Male,1,Sales Representative,1,30000,USA,African American,0
+42,Female,2,Director of Marketing,13,130000,UK,Welsh,0
+27,Male,0,Financial Manager,4,60000,Canada,White,0
+50,Female,1,Sales Manager,15,150000,China,Chinese,0
+35,Male,3,Marketing Manager,8,80000,China,Korean,0
+24,Female,1,Sales Executive,1,35000,China,Chinese,0
+46,Male,2,Content Marketing Manager,16,160000,USA,White,0
+29,Female,0,Sales Representative,2,40000,China,White,0
+47,Male,3,Product Marketing Manager,17,170000,China,White,1
+31,Female,1,Sales Representative,3,40000,USA,Hispanic,0
+38,Male,2,Director of Marketing,9,95000,Australia,Australian,0
+25,Female,0,Sales Associate,1,35000,Australia,Asian,0
+39,Male,1,Sales Director,10,100000,Australia,Asian,0
+33,Female,3,Financial Manager,5,70000,Canada,White,0
+27,Male,2,Digital Marketing Manager,3,50000,Australia,Australian,0
+43,Female,1,Marketing Manager,12,120000,Australia,Australian,0
+28,Male,0,Sales Executive,2,40000,Canada,Asian,0
+31,Male,1,Sales Associate,3,50000,China,Korean,0
+46,Female,2,Marketing Manager,14,140000,China,Korean,0
+27,Male,0,Sales Executive,2,40000,UK,Asian,0
+38,Female,1,Financial Manager,10,100000,UK,Asian,0
+24,Male,3,Digital Marketing Manager,1,30000,China,White,0
+33,Female,2,Content Marketing Manager,6,75000,USA,Hispanic,0
+29,Male,0,Sales Representative,2,40000,China,Chinese,0
+50,Female,1,Sales Manager,18,180000,Canada,Black,0
+35,Male,3,Product Marketing Manager,8,80000,UK,Welsh,1
+23,Female,1,Sales Executive,1,35000,China,Chinese,0
+41,Male,2,Director of Marketing,12,120000,Canada,Black,0
+26,Female,0,Financial Manager,3,45000,USA,African American,0
+32,Male,1,Sales Director,7,90000,Canada,Black,0
+27,Female,3,Marketing Manager,4,55000,Canada,Black,0
+43,Male,2,Content Marketing Manager,16,160000,Australia,Asian,0
+28,Female,1,Sales Representative,2,40000,USA,African American,0
+47,Male,3,Product Marketing Manager,17,170000,China,Korean,1
+31,Female,0,Sales Representative,3,40000,UK,Asian,0
+38,Male,2,Director of Marketing,9,95000,Canada,Asian,0
+25,Female,0,Sales Associate,1,35000,Australia,Asian,0
+39,Male,1,Sales Manager,11,110000,Canada,White,0
+33,Female,3,Financial Manager,6,75000,China,Chinese,0
+27,Male,2,Digital Marketing Manager,3,50000,China,White,0
+43,Female,1,Marketing Manager,12,120000,Canada,Asian,0
+28,Male,0,Sales Executive,2,40000,UK,Welsh,0
+50,Female,2,Content Marketing Manager,15,150000,China,Korean,0
+36,Male,1,Sales Representative,5,70000,UK,Welsh,0
+48,Female,3,Product Marketing Manager,19,190000,Canada,White,1
+31,Male,0,Sales Representative,3,40000,China,Chinese,0
+29,Female,1,Sales Director,6,75000,China,Chinese,0
+45,Male,2,Director of Marketing,14,140000,China,Chinese,0
+25,Female,0,Sales Associate,1,35000,Canada,White,0
+41,Male,1,Financial Manager,12,120000,USA,White,0
+35,Female,3,Marketing Manager,8,80000,Canada,White,0
+23,Male,1,Sales Executive,1,35000,China,White,0
+42,Female,2,Sales Manager,13,130000,Canada,Black,0
+26,Male,0,Digital Marketing Manager,2,40000,Australia,Australian,0
+32,Female,1,Content Marketing Manager,7,90000,Canada,White,0
+27,Male,3,Sales Representative,4,55000,USA,Hispanic,0
+50,Female,2,Product Marketing Manager,18,180000,Australia,Asian,1
+36,Male,1,Sales Representative,3,45000,Australia,Asian,0
+48,Female,3,Director of Marketing,19,190000,China,White,0
+31,Male,0,Sales Associate,3,50000,Australia,Asian,0
+29,Female,1,Financial Manager,4,55000,UK,Mixed,0
+45,Male,2,Marketing Manager,13,130000,UK,Asian,0
+25,Female,0,Sales Executive,1,35000,USA,African American,0
+41,Male,1,Content Marketing Manager,12,120000,China,Korean,0
+35,Female,3,Product Marketing Manager,9,95000,China,White,1
+23,Male,1,Sales Representative,1,35000,Australia,Australian,0
+42,Female,2,Digital Marketing Manager,14,140000,UK,Asian,0
+26,Male,0,Sales Manager,2,40000,China,Korean,0
+32,Female,1,Director of Marketing,8,80000,Australia,Australian,0
+27,Male,3,Marketing Manager,4,55000,Australia,Asian,0
+50,Female,2,Content Marketing Manager,19,190000,China,White,0
+36,Male,1,Sales Director,6,75000,Canada,White,0
+48,Female,3,Product Marketing Manager,17,170000,China,Korean,1
+31,Male,0,Sales Associate,3,50000,China,Chinese,0
+29,Female,1,Financial Manager,4,55000,Australia,White,0
+45,Male,2,Marketing Manager,13,130000,Canada,White,0
+25,Female,0,Sales Executive,1,35000,China,Chinese,0
+41,Male,1,Content Marketing Manager,12,120000,Canada,Asian,0
+35,Female,3,Product Marketing Manager,9,95000,USA,White,1
+23,Male,1,Sales Representative,1,35000,China,Chinese,0
+42,Female,2,Digital Marketing Manager,14,140000,China,White,0
+26,Male,0,Sales Manager,2,40000,Canada,Asian,0
+32,Female,1,Director of Marketing,8,80000,UK,Asian,0
+27,Male,3,Marketing Manager,4,55000,China,Chinese,0
+50,Female,2,Content Marketing Manager,19,190000,Canada,Black,0
+36,Male,1,Sales Director,6,75000,China,Chinese,0
+48,Female,3,Product Marketing Manager,17,170000,China,White,1
+31,Male,0,Sales Associate,3,50000,Canada,White,0
+29,Female,1,Financial Manager,4,55000,USA,Hispanic,0
+45,Male,2,Marketing Manager,13,130000,USA,Hispanic,0
+25,Female,0,Sales Executive,1,35000,Canada,Asian,0
+41,Male,1,Content Marketing Manager,12,120000,China,Chinese,0
+35,Female,3,Product Marketing Manager,9,95000,Canada,Black,1
+23,Male,1,Sales Representative,1,35000,USA,White,0
+42,Female,2,Digital Marketing Manager,14,140000,USA,Hispanic,0
+26,Male,0,Sales Manager,2,40000,China,Korean,0
+32,Female,1,Director of Marketing,8,80000,Canada,Asian,0
+27,Male,3,Marketing Manager,4,55000,USA,African American,0
+50,Female,2,Content Marketing Manager,19,190000,UK,Welsh,0
+36,Male,1,Sales Director,6,75000,USA,White,0
+48,Female,3,Product Marketing Manager,17,170000,Australia,White,1
+31,Male,0,Sales Associate,3,50000,UK,Asian,0
+29,Female,1,Financial Manager,4,55000,UK,White,0
+45,Male,2,Marketing Manager,13,130000,Canada,Asian,0
+25,Female,0,Sales Executive,1,35000,Australia,Australian,0
+41,Male,1,Content Marketing Manager,12,120000,USA,African American,0
+35,Female,3,Product Marketing Manager,9,95000,Canada,Asian,1
+23,Male,1,Sales Representative,1,35000,USA,White,0
+42,Female,2,Digital Marketing Manager,14,140000,Canada,White,0
+26,Male,0,Sales Manager,2,40000,China,Korean,0
+32,Female,1,Director of Marketing,8,80000,UK,Mixed,0
+27,Male,3,Marketing Manager,4,55000,UK,Mixed,0
+50,Female,2,Content Marketing Manager,19,190000,Canada,Asian,0
+36,Male,1,Sales Director,6,75000,China,White,0
+48,Female,3,Product Marketing Manager,17,170000,Canada,Black,1
+31,Male,0,Sales Associate,3,50000,Australia,Asian,0
+29,Female,1,Financial Manager,4,55000,UK,Asian,0
+45,Male,2,Marketing Manager,13,130000,Canada,Black,0
+25,Female,0,Sales Executive,1,35000,Canada,Asian,0
+41,Male,1,Content Marketing Manager,12,120000,Canada,Black,0
+35,Female,3,Product Marketing Manager,9,95000,UK,White,1
+23,Male,1,Sales Representative,1,35000,Australia,Asian,0
+42,Female,2,Digital Marketing Manager,14,140000,Australia,White,0
+26,Male,0,Sales Manager,2,40000,Australia,Australian,0
+32,Female,1,Director of Marketing,8,80000,USA,Hispanic,0
+27,Male,3,Marketing Manager,4,55000,Canada,Asian,0
+50,Female,2,Content Marketing Manager,19,190000,UK,Welsh,0
+36,Male,1,Sales Director,6,75000,USA,Hispanic,0
+48,Female,3,Product Marketing Manager,17,170000,Canada,Asian,1
+31,Male,0,Sales Associate,3,50000,Australia,Australian,0
+29,Female,1,Financial Manager,4,55000,UK,Mixed,0
+45,Male,2,Marketing Manager,13,130000,Australia,Australian,0
+25,Female,0,Sales Executive,1,35000,UK,White,0
+41,Male,1,Content Marketing Manager,12,120000,UK,Mixed,0
+35,Female,3,Product Marketing Manager,9,95000,UK,Welsh,1
+23,Male,1,Sales Representative,1,35000,UK,White,0
+42,Female,2,Digital Marketing Manager,14,140000,USA,Asian,0
+26,Male,0,Sales Manager,2,40000,USA,White,0
+32,Female,1,Director of Marketing,8,80000,USA,Hispanic,0
+27,Male,3,Marketing Manager,4,55000,UK,Asian,0
+50,Female,2,Content Marketing Manager,19,190000,Australia,White,0
+37,Male,2,Marketing Manager,11,110000,Australia,Australian,0
+26,Female,1,Sales Representative,2,40000,USA,African American,0
+42,Male,3,Content Marketing Manager,15,150000,China,White,0
+33,Female,0,Sales Executive,4,55000,Australia,White,0
+29,Male,1,Sales Manager,5,70000,China,Korean,0
+45,Female,2,Director of Marketing,16,160000,USA,African American,0
+24,Male,0,Sales Associate,1,35000,Australia,Australian,0
+39,Female,1,Financial Manager,10,100000,Australia,Australian,0
+31,Male,3,Product Marketing Manager,7,90000,China,Korean,1
+27,Female,2,Digital Marketing Manager,3,50000,Australia,Asian,0
+43,Male,1,Content Marketing Manager,14,140000,China,White,0
+28,Female,0,Sales Representative,2,40000,China,White,0
+50,Male,3,Marketing Manager,18,180000,Canada,Black,0
+35,Female,1,Sales Executive,7,90000,USA,African American,0
+23,Male,1,Sales Manager,1,35000,Australia,White,0
+41,Female,2,Director of Marketing,12,120000,China,Korean,0
+26,Male,0,Financial Manager,3,45000,China,Korean,0
+32,Female,1,Sales Director,8,80000,Australia,Australian,0
+27,Male,3,Marketing Manager,4,55000,Canada,White,0
+50,Female,2,Content Marketing Manager,18,180000,Australia,Australian,0
+36,Male,1,Sales Representative,6,75000,Australia,Asian,0
+48,Female,3,Product Marketing Manager,19,190000,China,Chinese,1
+31,Male,0,Sales Representative,3,40000,Australia,White,0
+29,Female,1,Sales Director,5,70000,China,Chinese,0
+45,Male,2,Director of Marketing,15,150000,USA,Hispanic,0
+25,Female,0,Sales Associate,1,35000,Australia,Australian,0
+41,Male,1,Financial Manager,12,120000,Australia,White,0
+35,Female,3,Marketing Manager,8,80000,Canada,Asian,0
+23,Male,1,Sales Executive,1,35000,China,White,0
+42,Female,2,Sales Manager,13,130000,Canada,Black,0
+26,Male,0,Digital Marketing Manager,2,40000,Canada,Asian,0
+32,Female,1,Content Marketing Manager,7,90000,China,White,0
+27,Male,3,Sales Representative,4,55000,Canada,Black,0
+50,Female,2,Product Marketing Manager,18,180000,UK,Welsh,1
+36,Male,1,Sales Representative,3,45000,Australia,Australian,0
+48,Female,3,Director of Marketing,19,190000,Canada,Asian,0
+31,Male,0,Sales Associate,3,50000,Australia,White,0
+29,Female,1,Financial Manager,4,55000,USA,White,0
+45,Male,2,Marketing Manager,13,130000,USA,African American,0
+25,Female,0,Sales Executive,1,35000,USA,Hispanic,0
+41,Male,1,Content Marketing Manager,12,120000,Canada,White,0
+35,Female,3,Product Marketing Manager,9,95000,China,Chinese,1
+23,Male,1,Sales Representative,1,35000,Australia,Asian,0
+42,Female,2,Digital Marketing Manager,14,140000,USA,African American,0
+26,Male,0,Sales Manager,2,40000,Australia,Australian,0
+32,Female,1,Director of Marketing,8,80000,UK,Mixed,0
+27,Male,3,Marketing Manager,4,55000,Canada,White,0
+50,Female,2,Content Marketing Manager,19,190000,China,Chinese,0
+36,Male,1,Sales Director,6,75000,Canada,White,0
+48,Female,3,Product Marketing Manager,17,170000,China,Chinese,1
+31,Male,0,Sales Associate,3,50000,Australia,White,0
+29,Female,1,Financial Manager,4,55000,USA,African American,0
+45,Male,2,Marketing Manager,13,130000,Australia,Australian,0
+25,Female,0,Sales Executive,1,35000,Australia,Asian,0
+41,Male,1,Content Marketing Manager,12,120000,USA,African American,0
+35,Female,3,Product Marketing Manager,9,95000,USA,Hispanic,1
+23,Male,1,Sales Representative,1,35000,USA,Hispanic,0
+42,Female,2,Digital Marketing Manager,14,140000,USA,African American,0
+26,Male,0,Sales Manager,2,40000,UK,Welsh,0
+32,Female,1,Director of Marketing,8,80000,China,Chinese,0
+27,Male,3,Marketing Manager,4,55000,UK,Welsh,0
+50,Female,2,Content Marketing Manager,19,190000,USA,White,0
+36,Male,1,Sales Director,6,75000,UK,Welsh,0
+48,Female,3,Product Marketing Manager,17,170000,Australia,Australian,1
+31,Male,0,Sales Associate,3,50000,Canada,Asian,0
+29,Female,1,Financial Manager,4,55000,China,Korean,0
+45,Male,2,Marketing Manager,13,130000,Canada,Asian,0
+25,Female,0,Sales Executive,1,35000,UK,Mixed,0
+41,Male,1,Content Marketing Manager,12,120000,Canada,Black,0
+35,Female,3,Product Marketing Manager,9,95000,Australia,White,1
+23,Male,1,Sales Representative,1,35000,USA,African American,0
+42,Female,2,Digital Marketing Manager,14,140000,China,White,0
+26,Male,0,Sales Manager,2,40000,China,Chinese,0
+32,Female,1,Director of Marketing,8,80000,Canada,White,0
+27,Male,3,Marketing Manager,4,55000,Australia,White,0
+50,Female,2,Content Marketing Manager,19,190000,Canada,White,0
+36,Male,1,Sales Director,6,75000,Australia,White,0
+48,Female,3,Product Marketing Manager,17,170000,Canada,White,1
+31,Male,0,Sales Associate,3,50000,UK,White,0
+29,Female,1,Financial Manager,4,55000,Australia,Asian,0
+45,Male,2,Marketing Manager,13,130000,USA,White,0
+25,Female,0,Sales Executive,1,35000,UK,Mixed,0
+41,Male,1,Content Marketing Manager,12,120000,UK,Welsh,0
+35,Female,3,Product Marketing Manager,9,95000,China,Korean,1
+23,Male,1,Sales Representative,1,35000,UK,Mixed,0
+42,Female,2,Digital Marketing Manager,14,140000,Australia,White,0
+26,Male,0,Sales Manager,2,40000,China,White,0
+32,Female,1,Director of Marketing,8,80000,Canada,Asian,0
+27,Male,3,Marketing Manager,4,55000,China,Korean,0
+50,Female,2,Content Marketing Manager,19,190000,Canada,White,0
+36,Male,1,Sales Director,6,75000,Australia,White,0
+48,Female,3,Product Marketing Manager,17,170000,USA,African American,1
+31,Male,0,Sales Associate,3,50000,China,White,0
+29,Female,1,Financial Manager,4,55000,China,Chinese,0
+45,Male,2,Marketing Manager,13,130000,Canada,White,0
+25,Female,0,Sales Executive,1,35000,Canada,Black,0
+41,Male,1,Content Marketing Manager,12,120000,USA,White,0
+35,Female,3,Product Marketing Manager,9,95000,USA,White,1
+23,Male,1,Sales Representative,1,35000,Canada,Black,0
+42,Female,2,Digital Marketing Manager,14,140000,China,White,0
+26,Male,0,Sales Manager,2,40000,China,Korean,0
+32,Female,1,Director of Marketing,8,80000,Australia,Australian,0
+27,Male,3,Marketing Manager,4,55000,USA,Hispanic,0
+50,Female,2,Content Marketing Manager,19,190000,China,Chinese,0
+36,Male,1,Sales Director,6,75000,USA,Asian,0
+48,Female,3,Product Marketing Manager,17,170000,UK,White,1
+31,Male,0,Sales Associate,3,50000,USA,White,0
+29,Female,1,Financial Manager,4,55000,Canada,Black,0
+45,Male,2,Marketing Manager,13,130000,China,Korean,0
+25,Female,0,Sales Executive,1,35000,UK,Welsh,0
+41,Male,1,Content Marketing Manager,12,120000,Canada,Black,0
+35,Female,3,Product Marketing Manager,9,95000,UK,Asian,1
+23,Male,1,Sales Representative,1,35000,Australia,Australian,0
+42,Female,2,Digital Marketing Manager,14,140000,UK,Mixed,0
+26,Male,0,Sales Manager,2,40000,USA,African American,0
+32,Female,1,Director of Marketing,8,80000,Australia,White,0
+27,Male,3,Marketing Manager,4,55000,Canada,Asian,0
+50,Female,2,Content Marketing Manager,19,190000,China,White,0
+36,Male,1,Sales Director,6,75000,Australia,Australian,0
+48,Female,3,Product Marketing Manager,17,170000,China,Chinese,1
+31,Male,0,Sales Associate,3,50000,China,Chinese,0
+29,Female,1,Financial Manager,4,55000,Canada,Black,0
+45,Male,2,Marketing Manager,13,130000,China,Korean,0
+25,Female,0,Sales Executive,1,35000,Australia,White,0
+38,Male,2,Marketing Manager,12,120000,UK,White,0
+27,Female,1,Sales Representative,3,45000,Canada,White,0
+43,Male,3,Content Marketing Manager,16,160000,China,Chinese,0
+34,Female,0,Sales Executive,5,70000,UK,Welsh,0
+30,Male,1,Sales Manager,6,75000,China,Chinese,0
+46,Female,2,Director of Marketing,17,170000,USA,Hispanic,0
+25,Male,0,Sales Associate,1,35000,Australia,Australian,0
+40,Female,1,Financial Manager,11,110000,USA,African American,0
+32,Male,3,Product Marketing Manager,8,80000,UK,Welsh,1
+28,Female,2,Digital Marketing Manager,4,55000,Canada,Asian,0
+44,Male,1,Content Marketing Manager,15,150000,Canada,Asian,0
+29,Female,0,Sales Representative,2,40000,UK,Mixed,0
+51,Male,3,Marketing Manager,19,190000,Canada,White,0
+36,Female,1,Sales Executive,8,80000,USA,African American,0
+24,Male,1,Sales Manager,1,35000,Australia,Asian,0
+42,Female,2,Director of Marketing,13,130000,UK,Asian,0
+27,Male,0,Financial Manager,3,45000,China,Chinese,0
+33,Female,1,Sales Director,7,90000,USA,Asian,0
+28,Male,3,Marketing Manager,4,55000,Canada,White,0
+51,Female,2,Content Marketing Manager,19,190000,UK,White,0
+37,Male,1,Sales Representative,7,90000,China,Korean,0
+49,Female,3,Product Marketing Manager,20,200000,UK,White,1
+32,Male,0,Sales Representative,3,40000,Canada,Asian,0
+30,Female,1,Sales Director,5,70000,Canada,Black,0
+46,Male,2,Director of Marketing,16,160000,Australia,Asian,0
+26,Female,0,Sales Associate,1,35000,USA,White,0
+42,Male,1,Financial Manager,13,130000,China,Chinese,0
+36,Female,3,Marketing Manager,9,95000,Australia,White,0
+24,Male,1,Sales Executive,1,35000,Canada,Asian,0
+43,Female,2,Sales Manager,14,140000,UK,White,0
+27,Male,0,Digital Marketing Manager,2,40000,USA,White,0
+33,Female,1,Content Marketing Manager,7,90000,USA,Hispanic,0
+28,Male,3,Sales Representative,4,55000,Australia,Asian,0
+51,Female,2,Product Marketing Manager,19,190000,China,Chinese,1
+37,Male,1,Sales Representative,6,75000,USA,White,0
+49,Female,3,Director of Marketing,20,200000,Australia,Asian,0
+32,Male,0,Sales Associate,3,50000,USA,Asian,0
+30,Female,1,Financial Manager,4,55000,UK,Mixed,0
+46,Male,2,Marketing Manager,14,140000,USA,Asian,0
+26,Female,0,Sales Executive,1,35000,Australia,Australian,0
+42,Male,1,Content Marketing Manager,13,130000,Australia,Asian,0
+36,Female,3,Product Marketing Manager,10,100000,USA,Asian,1
+24,Male,1,Sales Representative,1,35000,Australia,White,0
+43,Female,2,Digital Marketing Manager,15,150000,UK,Mixed,0
+27,Male,0,Sales Manager,2,40000,USA,Asian,0
+33,Female,1,Director of Marketing,8,80000,Australia,Australian,0
+28,Male,3,Marketing Manager,4,55000,Australia,Asian,0
+51,Female,2,Content Marketing Manager,19,190000,UK,White,0
+37,Male,1,Sales Director,7,90000,China,Chinese,0
+49,Female,3,Product Marketing Manager,20,200000,Canada,Black,1
+32,Male,0,Sales Representative,3,40000,UK,Mixed,0
+30,Female,1,Sales Manager,5,70000,Australia,White,0
+46,Male,2,Director of Marketing,16,160000,UK,Mixed,0
+26,Female,0,Sales Associate,1,35000,Australia,Australian,0
+42,Male,1,Financial Manager,13,130000,USA,Asian,0
+36,Female,3,Marketing Manager,9,95000,USA,African American,0
+24,Male,1,Sales Executive,1,35000,UK,Asian,0
+43,Female,2,Sales Manager,14,140000,Australia,White,0
+27,Male,0,Digital Marketing Manager,2,40000,USA,African American,0
+33,Female,1,Content Marketing Manager,7,90000,UK,White,0
+28,Male,3,Sales Representative,4,55000,UK,Welsh,0
+51,Female,2,Product Marketing Manager,19,190000,Australia,White,1
+37,Male,1,Sales Representative,6,75000,Australia,Australian,0
+49,Female,3,Director of Marketing,20,200000,Canada,Black,0
+32,Male,0,Sales Associate,3,50000,UK,Mixed,0
+30,Female,1,Financial Manager,4,55000,China,Korean,0
+46,Male,2,Marketing Manager,14,140000,UK,Asian,0
+26,Female,0,Sales Executive,1,35000,Canada,Black,0
+42,Male,1,Content Marketing Manager,13,130000,Canada,Asian,0
+36,Female,3,Product Marketing Manager,10,100000,UK,Welsh,1
+24,Male,1,Sales Representative,1,35000,Canada,Asian,0
+43,Female,2,Digital Marketing Manager,15,150000,Canada,White,0
+27,Male,0,Sales Manager,2,40000,Canada,Black,0
+33,Female,1,Director of Marketing,8,80000,Canada,Black,0
+28,Male,3,Marketing Manager,4,55000,USA,Hispanic,0
+51,Female,2,Content Marketing Manager,19,190000,Canada,Asian,0
+37,Male,1,Sales Director,7,90000,China,White,0
+49,Female,3,Product Marketing Manager,20,200000,UK,Welsh,1
+32,Male,0,Sales Representative,3,40000,USA,White,0
+30,Female,1,Sales Manager,5,70000,Canada,Asian,0
+46,Male,2,Director of Marketing,16,160000,Canada,White,0
+26,Female,0,Sales Associate,1,35000,USA,African American,0
+42,Male,1,Financial Manager,13,130000,USA,African American,0
+36,Female,3,Marketing Manager,9,95000,USA,White,0
+24,Male,1,Sales Executive,1,35000,Australia,Asian,0
+43,Female,2,Sales Manager,14,140000,Australia,Australian,0
+27,Male,0,Digital Marketing Manager,2,40000,China,Korean,0
+33,Female,1,Content Marketing Manager,7,90000,UK,Welsh,0
+28,Male,3,Sales Representative,4,55000,China,White,0
+51,Female,2,Product Marketing Manager,19,190000,UK,White,1
+37,Male,1,Sales Representative,6,75000,China,Korean,0
+49,Female,3,Director of Marketing,20,200000,Australia,Asian,0
+32,Male,0,Sales Associate,3,50000,UK,White,0
+30,Female,1,Financial Manager,4,55000,China,White,0
+46,Male,2,Marketing Manager,14,140000,Australia,Asian,0
+26,Female,0,Sales Executive,1,35000,China,Chinese,0
+42,Male,1,Content Marketing Manager,13,130000,UK,Asian,0
+36,Female,3,Product Marketing Manager,10,100000,China,Korean,1
+24,Male,1,Sales Representative,1,35000,UK,Asian,0
+43,Female,2,Digital Marketing Manager,15,150000,Australia,Australian,0
+27,Male,0,Sales Manager,2,40000,UK,White,0
+33,Female,1,Director of Marketing,8,80000,USA,African American,0
+28,Male,3,Marketing Manager,4,55000,Canada,Asian,0
+51,Female,2,Content Marketing Manager,19,190000,UK,White,0
+37,Male,1,Sales Director,7,90000,China,Chinese,0
+49,Female,3,Product Marketing Manager,20,200000,China,White,1
+32,Male,0,Sales Representative,3,40000,UK,Welsh,0
+30,Female,1,Sales Manager,5,70000,UK,Welsh,0
+46,Male,2,Director of Marketing,16,160000,China,Chinese,0
+26,Female,0,Sales Associate,1,35000,USA,Hispanic,0
+42,Male,1,Financial Manager,13,130000,Australia,Asian,0
+36,Female,3,Marketing Manager,9,95000,China,Chinese,0
+24,Male,1,Sales Executive,1,35000,Canada,Asian,0
+43,Female,2,Sales Manager,14,140000,Canada,Asian,0
+27,Male,0,Digital Marketing Manager,2,40000,Australia,Asian,0
+33,Female,1,Content Marketing Manager,7,90000,Australia,Australian,0
+28,Male,3,Sales Representative,4,55000,China,Korean,0
+51,Female,2,Product Marketing Manager,19,190000,UK,White,1
+37,Male,1,Sales Representative,6,75000,Canada,Asian,0
+49,Female,3,Director of Marketing,20,200000,UK,Mixed,0
+32,Male,0,Sales Associate,3,50000,Australia,Australian,0
+30,Female,1,Financial Manager,4,55000,China,Chinese,0
+46,Male,2,Marketing Manager,14,140000,China,Korean,0
+26,Female,0,Sales Executive,1,35000,Canada,Black,0

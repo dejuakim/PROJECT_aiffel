@@ -1,0 +1,16 @@
+Country,Reference,Last,Previous,Units,Frequency
+United States,Sep-23,307.48,306.27,"Index 1982-84=100, SA",Monthly
+China,Sep-23,100,100.1,"Index CPPY=100, NSA",Monthly
+Germany,Sep-23,117.9,117.5,"Index 2020=100, CDASA",Monthly
+France,Sep-23,118.52,118.2,"Index 2015=100, SA",Monthly
+United Kingdom,Sep-23,132,131.3,"Index 2015=100, NSA",Monthly
+Brazil,Sep-23,"6,700","6,683","Index Dec1993=100, NSA",Monthly
+Italy,Aug-23,120.1,119.7,"Index 2015=100, NSA",Monthly
+Russian Federation,Nov-21,205.5,203.5,"Index 2010=100, NSA",Monthly
+Canada,Sep-23,158.7,158.4,"Index 2002=100, SA",Monthly
+Australia,2023 Q3,135.3,133.7,"Index FY 2012=100, NSA",Quarterly
+Spain,Sep-23,113.35,113.15,"Index 2021=100, NSA",Monthly
+South Korea,Oct-23,113.37,112.99,"Index 2020=100, NSA",Monthly
+Mexico,Sep-23,130.12,129.54,"Index 2nd half Jul2018=100, NSA",Monthly
+Indonesia,Oct-23,115.64,115.44,"Index 2018=100, NSA",Monthly
+Netherlands,Sep-23,127.16,127.7,"Index 2015=100, NSA",Monthly
